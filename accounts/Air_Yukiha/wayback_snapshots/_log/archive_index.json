@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-22T15:25:19",
+  "last_updated": "2026-07-22T15:25:54",
   "html": {
     "https://web.archive.org/web/20260409134942if_/https://twitter.com/Air_Yukiha/status/2042238527661056399": {
       "status": "done",
@@ -6549,27 +6549,27 @@
       "referenced_by": [
         "20260605082953_twitter_com_Air_Yukiha_status_2062814149588238351.json"
       ],
-      "last_updated": "2026-07-22T09:42:00",
+      "last_updated": "2026-07-22T15:25:37",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260605082953/https://video.twimg.com/ext_tw_video/2062799308874010624/pu/vid/avc1/720x1280/RBHzXliflmXb_4x7.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HKsiVRqaAAAgmYO.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260613130647_twitter_com_Air_Yukiha_status_2065782939150078358.json"
       ],
-      "last_updated": "2026-07-22T15:18:54",
+      "last_updated": "2026-07-22T15:25:45",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260613130647/https://video.twimg.com/tweet_video/HKsiVRqaAAAgmYO.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2066152668830306304/pu/vid/avc1/720x1280/BPhJJYZ7XvmUPUko.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260614163955_twitter_com_Air_Yukiha_status_2066198964328874089.json"
       ],
-      "last_updated": "2026-07-22T09:42:00",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260614163955/https://video.twimg.com/ext_tw_video/2066152668830306304/pu/vid/avc1/720x1280/BPhJJYZ7XvmUPUko.mp4?tag=12",
-      "miss_count": 1
+      "last_updated": "2026-07-22T15:25:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614163955/https://video.twimg.com/ext_tw_video/2066152668830306304/pu/vid/avc1/720x1280/BPhJJYZ7XvmUPUko.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f57414f73b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2068301254774988800/pu/vid/avc1/720x1280/k7pfaocxEtSH4lwB.mp4?tag=12": {
       "status": "done",
@@ -19940,7 +19940,7 @@
       "last_updated": "2026-07-22T09:42:31"
     },
     "20260614163955_twitter_com_Air_Yukiha_status_2066198964328874089.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -19951,7 +19951,7 @@
           "https://pbs.twimg.com/profile_images/2063990512311541760/CciKliQx_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-22T09:42:27"
+      "last_updated": "2026-07-22T15:25:54"
     },
     "20260614170927_twitter_com_Air_Yukiha_status_2066206395163369524.json": {
       "status": "done",
