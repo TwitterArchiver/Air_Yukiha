@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2066929210569134554",
+    "created_at": "2026-06-16T17:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066929396976603543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1947520163999584258",
+          "start": 0,
+          "username": "Hayukoo233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066929396976603543",
+    "in_reply_to_user_id": "1947520163999584258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066929210569134554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hayukoo233 严肃收到🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2066929200842633216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK81KDgbcAAdOHC.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2066929210569134554",
+        "created_at": "2026-06-16T17:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066929396976603543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1947520163999584258",
+              "start": 0,
+              "username": "Hayukoo233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066929396976603543",
+        "in_reply_to_user_id": "1947520163999584258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066929210569134554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hayukoo233 严肃收到🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066929200842633216"
+          ]
+        },
+        "author_id": "1947520163999584258",
+        "conversation_id": "2066929210569134554",
+        "created_at": "2026-06-16T17:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066929210569134554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17PccbLp6u",
+              "end": 37,
+              "expanded_url": "https://x.com/Hayukoo233/status/2066929210569134554/photo/1",
+              "media_key": "3_2066929200842633216",
+              "start": 14,
+              "url": "https://t.co/17PccbLp6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066929210569134554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你。和我互fo。陪我玩😡😡 https://t.co/17PccbLp6u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 390,
+          "like_count": 1689,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 731
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T04:52:53.000Z",
+        "description": "我是女孩子/不定期发推/cosplay/画画\nip上海 /音游文游/地雷系亚文化/重郁治疗中/本人很温良，刻薄逼不要啊/互fo女孩子直来/喜欢我可以找我交友",
+        "id": "1947520163999584258",
+        "name": "Hayuko233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064015117419970560/A2gu8hFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 47,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 208
+        },
+        "username": "Hayukoo233",
+        "verified": false
+      }
+    ]
+  }
+}

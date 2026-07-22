@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062933076557410317",
+    "created_at": "2026-06-06T04:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063119321665314863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863043608506699776",
+          "start": 0,
+          "username": "Privrosyaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063119321665314863",
+    "in_reply_to_user_id": "1863043608506699776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062933076557410317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Privrosyaa 可以的！加油呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062933076557410317",
+        "created_at": "2026-06-06T04:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063119321665314863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863043608506699776",
+              "start": 0,
+              "username": "Privrosyaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063119321665314863",
+        "in_reply_to_user_id": "1863043608506699776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062933076557410317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Privrosyaa 可以的！加油呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863043608506699776",
+        "conversation_id": "2062933076557410317",
+        "created_at": "2026-06-05T16:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062933076557410317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062933076557410317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天高考我能赢吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 147,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 221
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T02:13:23.000Z",
+        "description": "This is Privrosy./im here to post what im interested in and something created by me/中文& English/Discord:Privrosy/🐧:153995777",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/privro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/privrosy.bsky.social",
+                "start": 0,
+                "url": "https://t.co/NJRxPb7LvD"
+              }
+            ]
+          }
+        },
+        "id": "1863043608506699776",
+        "name": "Privrosy",
+        "pinned_tweet_id": "2048432144977179092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044444512874070016/4cx-ovHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 1120,
+          "like_count": 17994,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/NJRxPb7LvD",
+        "username": "Privrosyaa",
+        "verified": false
+      }
+    ]
+  }
+}

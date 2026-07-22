@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065079949195898918",
+    "created_at": "2026-06-12T00:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T01:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065228193267925391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2062971459254071296",
+          "start": 0,
+          "username": "KK750725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065228193267925391",
+    "in_reply_to_user_id": "2062971459254071296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065116618045128922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK750725 问问你的择偶观吧嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065079949195898918",
+        "created_at": "2026-06-12T00:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065228193267925391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2062971459254071296",
+              "start": 0,
+              "username": "KK750725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065228193267925391",
+        "in_reply_to_user_id": "2062971459254071296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065116618045128922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK750725 问问你的择偶观吧嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062971459254071296",
+        "conversation_id": "2065079949195898918",
+        "created_at": "2026-06-11T16:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065116618045128922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065116618045128922",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065079949195898918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 341,
+          "like_count": 1333,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 487
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T18:56:42.000Z",
+        "description": "",
+        "id": "2062971459254071296",
+        "name": "K 悖论",
+        "pinned_tweet_id": "2064053149099561336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063714352771821569/lk3i3m2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 28,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 179
+        },
+        "username": "KK750725",
+        "verified": false
+      }
+    ]
+  }
+}

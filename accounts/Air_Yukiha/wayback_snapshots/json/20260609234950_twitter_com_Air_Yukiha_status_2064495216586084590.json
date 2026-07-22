@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2064368920832991544",
+    "created_at": "2026-06-09T23:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T00:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064495216586084590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1954426904712536064",
+          "start": 0,
+          "username": "_14_ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064495216586084590",
+    "in_reply_to_user_id": "1954426904712536064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064411275044770231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_14_ii 叫我小翼😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2064368920832991544",
+        "created_at": "2026-06-09T23:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064495216586084590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1954426904712536064",
+              "start": 0,
+              "username": "_14_ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064495216586084590",
+        "in_reply_to_user_id": "1954426904712536064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064411275044770231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_14_ii 叫我小翼😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954426904712536064",
+        "conversation_id": "2064368920832991544",
+        "created_at": "2026-06-09T18:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064411275044770231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064411275044770231",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064368920832991544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 304,
+          "like_count": 1174,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 394
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T06:17:59.000Z",
+        "description": "TT/淚醬|09|ip香港/深圳/馬來-留學中|地雷/餐卷|我o割吸|低能量|玻璃心|粵/普/En-oki |互fo/擴列 大歡迎|高強度上網［精神狀態偶爾不穩 很友好請放心撫摸］\n♡歡迎小窗互動 出來線下面基呀 ♡\n🚪52/88/120 \n*ଘ 幸せが私に来ますように! ‧₊",
+        "id": "1954426904712536064",
+        "location": "🚪88 解锁线下/原",
+        "name": "幸福是什么",
+        "pinned_tweet_id": "2063804916804825139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063762948808720384/Qur0YtjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 126,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 289
+        },
+        "username": "_14_ii",
+        "verified": false
+      }
+    ]
+  }
+}

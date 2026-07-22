@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062167492378968273",
+    "created_at": "2026-06-05T12:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062881401197011011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046523339368476672",
+          "start": 0,
+          "username": "aika_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062881401197011011",
+    "in_reply_to_user_id": "2046523339368476672",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062880446858551462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aika_overdose 감사합니다!🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062167492378968273",
+        "created_at": "2026-06-05T12:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062881401197011011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046523339368476672",
+              "start": 0,
+              "username": "aika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062881401197011011",
+        "in_reply_to_user_id": "2046523339368476672",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062880446858551462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aika_overdose 감사합니다!🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046523339368476672",
+        "conversation_id": "2062167492378968273",
+        "created_at": "2026-06-05T12:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062880446858551462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062880446858551462",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062167492378968273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 그림 엄청 절 그린다!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 132,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 197
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T09:36:31.000Z",
+        "description": "あなただけの堕落天使、あいかちゃんだよ！\n躁鬱だけどまかせとけ 🖤🪽 †堕天†",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kre.pe/AR86",
+                "end": 23,
+                "expanded_url": "https://kre.pe/AR86",
+                "start": 0,
+                "url": "https://t.co/NOzyv9be2T"
+              }
+            ]
+          }
+        },
+        "id": "2046523339368476672",
+        "location": "キミのぱそこん",
+        "name": "🎀あいかわらず君の🎀天使ちゃん",
+        "pinned_tweet_id": "2062353624219693083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046585434747420672/vkVLVs7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 10,
+          "like_count": 433,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/NOzyv9be2T",
+        "username": "aika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

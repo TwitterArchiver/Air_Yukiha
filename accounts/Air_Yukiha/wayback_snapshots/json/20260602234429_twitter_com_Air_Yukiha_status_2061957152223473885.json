@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2061765034112688128",
+    "created_at": "2026-06-02T23:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T00:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061957152223473885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390706751457030146",
+          "start": 0,
+          "username": "___lilyvalley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061957152223473885",
+    "in_reply_to_user_id": "1390706751457030146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061765034112688128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@___lilyvalley 感觉大理很适合哦 风景很好适合散心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2061765034112688128",
+        "created_at": "2026-06-02T23:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061957152223473885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390706751457030146",
+              "start": 0,
+              "username": "___lilyvalley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061957152223473885",
+        "in_reply_to_user_id": "1390706751457030146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061765034112688128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@___lilyvalley 感觉大理很适合哦 风景很好适合散心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390706751457030146",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2061765034112688128",
+        "created_at": "2026-06-02T11:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061765034112688128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061765034112688128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 278748,
+          "like_count": 877,
+          "quote_count": 16,
+          "reply_count": 1474,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "中国で女一人旅にオススメの都市あれば教えてほしいです😻🇨🇳(上海、重慶、北京以外で！)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 40,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 57
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T16:35:32.000Z",
+        "description": "01🍀海外旅行vlog▶https://t.co/BiHNuiZBlt 映画/ドラマ/アニメ/漫画/海外旅行✈️ インスタに海外旅行まとめてます⬇️ @_o1831",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "_o1831"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@rarachan31",
+                "end": 35,
+                "expanded_url": "https://youtube.com/@rarachan31",
+                "start": 12,
+                "url": "https://t.co/BiHNuiZBlt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_o1831",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/_o1831",
+                "start": 0,
+                "url": "https://t.co/iBOn89dWlO"
+              }
+            ]
+          }
+        },
+        "id": "1390706751457030146",
+        "name": "らら",
+        "pinned_tweet_id": "2022265216730325172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034281300149014528/NON7q4pE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19577,
+          "following_count": 571,
+          "like_count": 8830,
+          "listed_count": 63,
+          "media_count": 995,
+          "tweet_count": 2169
+        },
+        "url": "https://t.co/iBOn89dWlO",
+        "username": "___lilyvalley",
+        "verified": true
+      }
+    ]
+  }
+}

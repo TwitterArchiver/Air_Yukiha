@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065718845843923326",
+    "created_at": "2026-06-14T10:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066109532443680944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1424610450780528645",
+          "start": 0,
+          "username": "nakachuuu41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066109532443680944",
+    "in_reply_to_user_id": "1424610450780528645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065981719094943804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakachuuu41 其实也有幸体验过www😖是我描述的不太清楚。😭我想表达的可能是在最基本生活条件下能和爱人在一起不渴望更多金钱房产一类，不是那种连自身需求都无法满足的情况  直接用出租屋文學来概括确实不太恰当"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065718845843923326",
+        "created_at": "2026-06-14T10:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066109532443680944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1424610450780528645",
+              "start": 0,
+              "username": "nakachuuu41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066109532443680944",
+        "in_reply_to_user_id": "1424610450780528645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065981719094943804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakachuuu41 其实也有幸体验过www😖是我描述的不太清楚。😭我想表达的可能是在最基本生活条件下能和爱人在一起不渴望更多金钱房产一类，不是那种连自身需求都无法满足的情况  直接用出租屋文學来概括确实不太恰当"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424610450780528645",
+        "conversation_id": "2065718845843923326",
+        "created_at": "2026-06-14T02:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065981719094943804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065981719094943804",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065718845843923326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 住过出租屋就不会有这种幻想，随时蟑螂睡觉可能会爬脸，雨太大会漫进房子里，一觉醒来拖鞋是漂浮的。冬天的窗户是漏风刺骨的，只能用蛇皮袋封住，半夜睡觉会有不知道从哪来的野🐈跑到被窝里和你一起睡。夏天热到爆炸却只能吹出热风的破电风扇。稍微砸到了墙，墙破洞了，因为是房东拿纸板隔出来的房间。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 380,
+          "like_count": 1560,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 651
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T05:56:25.000Z",
+        "description": "不是所有问题都值得我开口。",
+        "id": "1424610450780528645",
+        "name": "Veeeee",
+        "pinned_tweet_id": "1942035324797948138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971717748410478592/o5dEXazD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 332,
+          "like_count": 5248,
+          "listed_count": 6,
+          "media_count": 175,
+          "tweet_count": 1433
+        },
+        "username": "nakachuuu41",
+        "verified": false
+      }
+    ]
+  }
+}

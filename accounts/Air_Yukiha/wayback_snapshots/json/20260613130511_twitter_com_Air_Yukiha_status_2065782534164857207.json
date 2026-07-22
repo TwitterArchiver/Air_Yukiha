@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065725247643689020",
+    "created_at": "2026-06-13T13:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065782534164857207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036379071287095296",
+          "start": 0,
+          "username": "dhaoyanglove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065782534164857207",
+    "in_reply_to_user_id": "2036379071287095296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065726018124734554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dhaoyanglove 抱抱…&gt;_&lt;…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065725247643689020",
+        "created_at": "2026-06-13T13:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065782534164857207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036379071287095296",
+              "start": 0,
+              "username": "dhaoyanglove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065782534164857207",
+        "in_reply_to_user_id": "2036379071287095296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065726018124734554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhaoyanglove 抱抱…&gt;_&lt;…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036379071287095296",
+        "conversation_id": "2065725247643689020",
+        "created_at": "2026-06-13T09:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065726018124734554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065726018124734554",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065725247643689020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 366,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 593
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T09:46:36.000Z",
+        "description": "白天一本正经的男性 其实心里是一个可爱小女孩 在背地里一个人穿上女装丝袜高跟看着镜子里的自己无比可爱 想被抱在怀里当成乖女儿宝宝\n其实是把这里当可以发涩图的朋友圈电子相册",
+        "id": "2036379071287095296",
+        "location": "义乌",
+        "name": "惜欣酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038484436967403520/YOC7TreG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 71,
+          "like_count": 431,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 106
+        },
+        "username": "dhaoyanglove",
+        "verified": false
+      }
+    ]
+  }
+}

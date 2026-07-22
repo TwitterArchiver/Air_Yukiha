@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047717012156407809"
+      ]
+    },
+    "author_id": "1988187586339467264",
+    "conversation_id": "2047717020708593897",
+    "created_at": "2026-04-24T16:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047717020708593897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pyIHdzMApt",
+          "end": 40,
+          "expanded_url": "https://x.com/Air_Yukiha/status/2047717020708593897/photo/1",
+          "media_key": "3_2047717012156407809",
+          "start": 17,
+          "url": "https://t.co/pyIHdzMApt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047717020708593897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘿嘿用原皮試了一下糖糖的國中時🥹 https://t.co/pyIHdzMApt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047717012156407809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrzxfYbYAEYfRi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047717012156407809"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2047717020708593897",
+        "created_at": "2026-04-24T16:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047717020708593897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pyIHdzMApt",
+              "end": 40,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2047717020708593897/photo/1",
+              "media_key": "3_2047717012156407809",
+              "start": 17,
+              "url": "https://t.co/pyIHdzMApt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047717020708593897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿用原皮試了一下糖糖的國中時🥹 https://t.co/pyIHdzMApt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

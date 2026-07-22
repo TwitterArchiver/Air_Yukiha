@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063254706651275264",
+        "3_2063254706647175168"
+      ]
+    },
+    "author_id": "1988187586339467264",
+    "conversation_id": "2063254714565968352",
+    "created_at": "2026-06-06T13:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063254714565968352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vxJeCdWvvk",
+          "end": 36,
+          "expanded_url": "https://x.com/Air_Yukiha/status/2063254714565968352/photo/1",
+          "media_key": "3_2063254706651275264",
+          "start": 13,
+          "url": "https://t.co/vxJeCdWvvk"
+        },
+        {
+          "display_url": "pic.x.com/vxJeCdWvvk",
+          "end": 36,
+          "expanded_url": "https://x.com/Air_Yukiha/status/2063254714565968352/photo/1",
+          "media_key": "3_2063254706647175168",
+          "start": 13,
+          "url": "https://t.co/vxJeCdWvvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063254714565968352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的阿p猫嘿嘿嘿嘿好可爱 https://t.co/vxJeCdWvvk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063254706651275264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKInOV8aIAAtIJb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063254706647175168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKInOV7bkAAfTiU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063254706651275264",
+            "3_2063254706647175168"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2063254714565968352",
+        "created_at": "2026-06-06T13:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063254714565968352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxJeCdWvvk",
+              "end": 36,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2063254714565968352/photo/1",
+              "media_key": "3_2063254706651275264",
+              "start": 13,
+              "url": "https://t.co/vxJeCdWvvk"
+            },
+            {
+              "display_url": "pic.x.com/vxJeCdWvvk",
+              "end": 36,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2063254714565968352/photo/1",
+              "media_key": "3_2063254706647175168",
+              "start": 13,
+              "url": "https://t.co/vxJeCdWvvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063254714565968352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的阿p猫嘿嘿嘿嘿好可爱 https://t.co/vxJeCdWvvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 166,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 247
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

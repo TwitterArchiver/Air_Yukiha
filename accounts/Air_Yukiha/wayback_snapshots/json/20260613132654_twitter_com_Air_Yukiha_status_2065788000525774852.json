@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065718845843923326",
+    "created_at": "2026-06-13T13:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065788000525774852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1930534441644175360",
+          "start": 0,
+          "username": "willingbnc75588"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065788000525774852",
+    "in_reply_to_user_id": "1930534441644175360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065776065616982505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willingbnc75588 唉是的qwq有一个自己的家很幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065718845843923326",
+        "created_at": "2026-06-13T13:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065788000525774852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1930534441644175360",
+              "start": 0,
+              "username": "willingbnc75588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065788000525774852",
+        "in_reply_to_user_id": "1930534441644175360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065776065616982505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willingbnc75588 唉是的qwq有一个自己的家很幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930534441644175360",
+        "conversation_id": "2065718845843923326",
+        "created_at": "2026-06-13T12:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065776065616982505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065776065616982505",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065718845843923326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 属于自己的不会被突然闯进来不会被赶走的出租屋对我们这种原生家庭出来的也很已经幸福了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 366,
+          "like_count": 1502,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 613
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T07:58:39.000Z",
+        "description": "想要变成有钱人/精神病",
+        "id": "1930534441644175360",
+        "location": "HELL",
+        "name": "菜菜子",
+        "pinned_tweet_id": "1931584810344128573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683200886476802/ywV4jJri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 23,
+          "like_count": 18511,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 3859
+        },
+        "username": "willingbnc75588",
+        "verified": false
+      }
+    ]
+  }
+}

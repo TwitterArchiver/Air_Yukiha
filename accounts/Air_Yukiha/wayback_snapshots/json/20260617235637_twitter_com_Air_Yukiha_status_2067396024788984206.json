@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2067266542832877804",
+    "created_at": "2026-06-17T23:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T00:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067396024788984206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1631135079140560897",
+          "start": 0,
+          "username": "wangherisunge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067396024788984206",
+    "in_reply_to_user_id": "1631135079140560897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067275884269281346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangherisunge 睡觉好苏胡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2067266542832877804",
+        "created_at": "2026-06-17T23:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067396024788984206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1631135079140560897",
+              "start": 0,
+              "username": "wangherisunge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067396024788984206",
+        "in_reply_to_user_id": "1631135079140560897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067275884269281346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangherisunge 睡觉好苏胡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631135079140560897",
+        "conversation_id": "2067266542832877804",
+        "created_at": "2026-06-17T15:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067275884269281346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067275884269281346",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067266542832877804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 睡这么香！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 400,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 757
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:31:37.000Z",
+        "description": "近海浅滩，或有鹤立\n这里是鹤，希望大家都可以天天开心！天天幸福！\n大家关注我的我都会回关！\n想要一起聊天的可以私信或tg@yizhihe11，纯闲聊哦",
+        "id": "1631135079140560897",
+        "name": "鹤",
+        "pinned_tweet_id": "2066439980684382464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066034590918250497/ld7ZlADe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 49,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1117
+        },
+        "username": "wangherisunge",
+        "verified": true
+      }
+    ]
+  }
+}

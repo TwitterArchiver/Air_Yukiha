@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062307404319256901",
+    "created_at": "2026-06-04T08:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062452450079212022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1920689311919599616",
+          "start": 0,
+          "username": "4yalx4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062452450079212022",
+    "in_reply_to_user_id": "1920689311919599616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062307404319256901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4yalx4 虽然不知道你遇到了什么事  但是我知道你一定是因为生活很痛苦才想去死的😢如果追寻无痛苦的死亡，人生本来就是一场慢性自杀吧？试着放弃理论上要做的事情，追寻自己内心，等老了用年龄杀死自己吧☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062307404319256901",
+        "created_at": "2026-06-04T08:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062452450079212022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1920689311919599616",
+              "start": 0,
+              "username": "4yalx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062452450079212022",
+        "in_reply_to_user_id": "1920689311919599616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062307404319256901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4yalx4 虽然不知道你遇到了什么事  但是我知道你一定是因为生活很痛苦才想去死的😢如果追寻无痛苦的死亡，人生本来就是一场慢性自杀吧？试着放弃理论上要做的事情，追寻自己内心，等老了用年龄杀死自己吧☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920689311919599616",
+        "conversation_id": "2062307404319256901",
+        "created_at": "2026-06-03T22:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062307404319256901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062307404319256901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4927,
+          "like_count": 176,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "自殺ってことでいいから誰か殺してくんね？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 62,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 106
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T03:56:46.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@nnn.m790?_t=Z…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@nnn.m790?_t=ZS-8wEj7ZTaTjU&_r=1",
+                "start": 0,
+                "url": "https://t.co/hWKQWS8i3S"
+              }
+            ]
+          }
+        },
+        "id": "1920689311919599616",
+        "location": "日本",
+        "name": "･",
+        "pinned_tweet_id": "2058187936693473494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968805405880107008/Rn1SP3Y2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 82,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/hWKQWS8i3S",
+        "username": "4yalx4",
+        "verified": false
+      }
+    ]
+  }
+}

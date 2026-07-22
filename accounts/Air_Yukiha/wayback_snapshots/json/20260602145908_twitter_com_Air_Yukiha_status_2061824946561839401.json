@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2061402189969629266",
+    "created_at": "2026-06-02T14:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061824946561839401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733307808601538560",
+          "start": 0,
+          "username": "meilax_28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061824946561839401",
+    "in_reply_to_user_id": "1733307808601538560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061402189969629266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meilax_28 并不会失去一切哦  你的生命 你此刻打字的双手都是属于你的 多去寻找永远属于你的东西吧🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2061402189969629266",
+        "created_at": "2026-06-02T14:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061824946561839401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733307808601538560",
+              "start": 0,
+              "username": "meilax_28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061824946561839401",
+        "in_reply_to_user_id": "1733307808601538560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061402189969629266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meilax_28 并不会失去一切哦  你的生命 你此刻打字的双手都是属于你的 多去寻找永远属于你的东西吧🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733307808601538560",
+        "conversation_id": "2061402189969629266",
+        "created_at": "2026-06-01T10:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061402189969629266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061402189969629266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 28506,
+          "like_count": 983,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "うつ病になって全部失った\n早く死にたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 38,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 47
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T02:09:29.000Z",
+        "description": "23、🚹、うつ病、複雑性PTSD、反出生主義、DM✖︎",
+        "id": "1733307808601538560",
+        "name": "ぽぽ",
+        "pinned_tweet_id": "2061402189969629266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736243827315494912/36GcakTv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 451,
+          "like_count": 34782,
+          "listed_count": 6,
+          "media_count": 4,
+          "tweet_count": 12846
+        },
+        "username": "meilax_28",
+        "verified": false
+      }
+    ]
+  }
+}

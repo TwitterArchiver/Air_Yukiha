@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065083384356077847",
+    "created_at": "2026-06-12T00:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T01:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065223011847090685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1976239993464242176",
+          "start": 0,
+          "username": "Star_Furry_mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065223011847090685",
+    "in_reply_to_user_id": "1976239993464242176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065139596585762995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Star_Furry_mtf 说话超级可爱喵😋🥺感觉互动圈经常能看到你！稀饭你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065083384356077847",
+        "created_at": "2026-06-12T00:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065223011847090685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1976239993464242176",
+              "start": 0,
+              "username": "Star_Furry_mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065223011847090685",
+        "in_reply_to_user_id": "1976239993464242176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065139596585762995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Star_Furry_mtf 说话超级可爱喵😋🥺感觉互动圈经常能看到你！稀饭你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976239993464242176",
+        "conversation_id": "2065083384356077847",
+        "created_at": "2026-06-11T18:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065139596585762995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065139596585762995",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065083384356077847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 1114514"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 339,
+          "like_count": 1320,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 474
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T10:55:34.000Z",
+        "description": "一个在🇨🇳的小透明福瑞爱好者|偶尔上推 拥有很多爱我的亲友|中文🔴|English⭕|日本語❌|同类可扩 Q：3423215607|email:awawrgx@outlook.com|想进行hrt当mtf，可无资金进行|选择性互fo|泛性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Furry_Stars",
+                "end": 23,
+                "expanded_url": "https://t.me/Furry_Stars",
+                "start": 0,
+                "url": "https://t.co/pkA9bMAClM"
+              }
+            ]
+          }
+        },
+        "id": "1976239993464242176",
+        "location": "湖北省 武汉市 距你0.91km",
+        "name": "星曦🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064571861527339008/UcsIEUIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 104,
+          "like_count": 322,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/pkA9bMAClM",
+        "username": "Star_Furry_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2061411728219611136"
+      ]
+    },
+    "author_id": "1988187586339467264",
+    "conversation_id": "2061234520502755810",
+    "created_at": "2026-06-01T11:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061411737275183257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1387779928507273226",
+          "start": 0,
+          "username": "sevdaloji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oBCFyicTbz",
+          "end": 34,
+          "expanded_url": "https://x.com/Air_Yukiha/status/2061411737275183257/photo/1",
+          "media_key": "16_2061411728219611136",
+          "start": 11,
+          "url": "https://t.co/oBCFyicTbz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061411737275183257",
+    "in_reply_to_user_id": "1387779928507273226",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061234520502755810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevdaloji https://t.co/oBCFyicTbz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 330,
+        "media_key": "16_2061411728219611136",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJubC4RaoAANTmH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJubC4RaoAANTmH.mp4"
+          }
+        ],
+        "width": 498
+      },
+      {
+        "height": 1195,
+        "media_key": "3_2061222201567686658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJruq-eXMAI68jO.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2061411728219611136"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2061234520502755810",
+        "created_at": "2026-06-01T11:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061411737275183257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1387779928507273226",
+              "start": 0,
+              "username": "sevdaloji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBCFyicTbz",
+              "end": 34,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2061411737275183257/photo/1",
+              "media_key": "16_2061411728219611136",
+              "start": 11,
+              "url": "https://t.co/oBCFyicTbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061411737275183257",
+        "in_reply_to_user_id": "1387779928507273226",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061234520502755810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevdaloji https://t.co/oBCFyicTbz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061222201567686658"
+          ]
+        },
+        "author_id": "1387779928507273226",
+        "conversation_id": "2061234520502755810",
+        "created_at": "2026-05-31T23:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061234520502755810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zDBBo1lAQ",
+              "end": 92,
+              "expanded_url": "https://x.com/sevdaloji/status/2061234520502755810/photo/1",
+              "media_key": "3_2061222201567686658",
+              "start": 69,
+              "url": "https://t.co/1zDBBo1lAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061234520502755810",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 48256,
+          "like_count": 5485,
+          "quote_count": 25,
+          "reply_count": 938,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "Üzgün kedim Daisy'e merhaba demeyenler için HAZİRAN AYINDA KÖTÜ ŞANS https://t.co/1zDBBo1lAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 23,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 37
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-29T14:45:08.000Z",
+        "description": "ücretli rt reklam ve iş birliği için DM📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sevdalojim",
+                "end": 23,
+                "expanded_url": "http://instagram.com/sevdalojim",
+                "start": 0,
+                "url": "https://t.co/PNqIQthSQ5"
+              }
+            ]
+          }
+        },
+        "id": "1387779928507273226",
+        "location": "İstanbul, Türkiye",
+        "name": "Sevda",
+        "pinned_tweet_id": "1954629293373640910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756750369332346880/TmOzTWg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170847,
+          "following_count": 65755,
+          "like_count": 716472,
+          "listed_count": 68,
+          "media_count": 561,
+          "tweet_count": 4365
+        },
+        "url": "https://t.co/PNqIQthSQ5",
+        "username": "sevdaloji",
+        "verified": true
+      }
+    ]
+  }
+}

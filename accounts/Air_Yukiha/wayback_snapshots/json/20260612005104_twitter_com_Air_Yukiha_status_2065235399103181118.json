@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065110680144142344",
+    "created_at": "2026-06-12T00:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T01:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065235399103181118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2062493825822490624",
+          "start": 0,
+          "username": "lmtznj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065235399103181118",
+    "in_reply_to_user_id": "2062493825822490624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065113772482822153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmtznj 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065110680144142344",
+        "created_at": "2026-06-12T00:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065235399103181118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2062493825822490624",
+              "start": 0,
+              "username": "lmtznj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065235399103181118",
+        "in_reply_to_user_id": "2062493825822490624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065113772482822153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmtznj 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062493825822490624",
+        "conversation_id": "2065110680144142344",
+        "created_at": "2026-06-11T16:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065113772482822153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065113772482822153",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065110680144142344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 你看你萌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 341,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 496
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T11:17:47.000Z",
+        "description": "东子一个（减脂中..）喜欢大扔扔健身姐姐~(¯▽¯~)~希望能找到❤️(◍•ᴗ•◍)喜欢有礼貌的宝宝们（偶尔开玩笑没关系）/骂人前请注意，你面前是一只小熊哦🐻",
+        "id": "2062493825822490624",
+        "location": "m78",
+        "name": "加一碗米饭🍚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062574552564244480/3gwNk_lM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 386,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 328
+        },
+        "username": "lmtznj",
+        "verified": false
+      }
+    ]
+  }
+}

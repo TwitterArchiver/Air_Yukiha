@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2066875182279774564",
+    "created_at": "2026-06-16T16:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066919776879071542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963694775770685440",
+          "start": 0,
+          "username": "Fiona_Coyn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066919776879071542",
+    "in_reply_to_user_id": "1963694775770685440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066885361746559182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fiona_Coyn3 鸟之诗  被生命所厌恶  迷恋😋\n这三首是我最喜欢的嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2066875182279774564",
+        "created_at": "2026-06-16T16:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066919776879071542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963694775770685440",
+              "start": 0,
+              "username": "Fiona_Coyn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066919776879071542",
+        "in_reply_to_user_id": "1963694775770685440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066885361746559182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fiona_Coyn3 鸟之诗  被生命所厌恶  迷恋😋\n这三首是我最喜欢的嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963694775770685440",
+        "conversation_id": "2066875182279774564",
+        "created_at": "2026-06-16T14:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066885361746559182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066885361746559182",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066875182279774564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 389,
+          "like_count": 1680,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 727
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T20:05:00.000Z",
+        "description": "预备役個人勢vtuber\n目前的戀人@7zip33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "7zip33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rlj8mjsb5ypk9n…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rlj8mjsb5ypk9nm?t=OzCbre&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/YTE3M9naBr"
+              }
+            ]
+          }
+        },
+        "id": "1963694775770685440",
+        "location": "中南海",
+        "name": "49 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2012465630654484482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053059149144240128/66WKW1f2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 77,
+          "like_count": 6997,
+          "listed_count": 7,
+          "media_count": 540,
+          "tweet_count": 4075
+        },
+        "url": "https://t.co/YTE3M9naBr",
+        "username": "Fiona_Coyn3",
+        "verified": true
+      }
+    ]
+  }
+}

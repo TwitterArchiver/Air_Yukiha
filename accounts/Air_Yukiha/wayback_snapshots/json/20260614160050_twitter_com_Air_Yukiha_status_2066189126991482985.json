@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2066138594750669295",
+    "created_at": "2026-06-14T16:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066189126991482985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1410936828467712002",
+          "start": 0,
+          "username": "Blitz24053575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066189126991482985",
+    "in_reply_to_user_id": "1410936828467712002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066138594750669295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blitz24053575 在内圈！耶😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2066138588576718848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxmGXTXoAAbzjk.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2066138594750669295",
+        "created_at": "2026-06-14T16:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066189126991482985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1410936828467712002",
+              "start": 0,
+              "username": "Blitz24053575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066189126991482985",
+        "in_reply_to_user_id": "1410936828467712002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066138594750669295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blitz24053575 在内圈！耶😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066138588576718848"
+          ]
+        },
+        "author_id": "1410936828467712002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066138594750669295",
+        "created_at": "2026-06-14T12:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066138594750669295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/CcxpkSo4mB"
+            },
+            {
+              "display_url": "pic.x.com/ftktn6ajgi",
+              "end": 64,
+              "expanded_url": "https://x.com/Blitz24053575/status/2066138594750669295/photo/1",
+              "media_key": "3_2066138588576718848",
+              "start": 41,
+              "url": "https://t.co/ftktn6ajgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066138594750669295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/CcxpkSo4mB https://t.co/ftktn6ajgi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 382,
+          "like_count": 1582,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 665
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T12:22:17.000Z",
+        "description": "碎碎念丨雄性动物丨我是个恶俗的人，善良都是装的丨想骂我的我宣布你获胜了，别骂我丨鼠鼠日留丨梦见啥发啥丨有时候x不会给我推送关注消息，私信互fo丨不割手，不od丨资深米学长，崩，原，铁，绝四修丨hoyomix忠实听众丨吃货努力减肥中丨新晋索狗，欢迎加我psn好友和steam好友一起打游戏呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blitz24053575",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blitz24053575",
+                "start": 0,
+                "url": "https://t.co/fO3ZqKoeuC"
+              }
+            ]
+          }
+        },
+        "id": "1410936828467712002",
+        "location": "给我说悄悄话吧→",
+        "name": "我只是只企鹅别难为我",
+        "pinned_tweet_id": "2063477212268118272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027489355464634368/l0ooMpQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 126,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 2529
+        },
+        "url": "https://t.co/fO3ZqKoeuC",
+        "username": "Blitz24053575",
+        "verified": true
+      }
+    ]
+  }
+}

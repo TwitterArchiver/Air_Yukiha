@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2064865285082067221",
+    "created_at": "2026-06-11T11:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065031757334999138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882507274956005376",
+          "start": 0,
+          "username": "pikdOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065031757334999138",
+    "in_reply_to_user_id": "1882507274956005376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064897786618040719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pikdOvO 被人举报了…申诉成功了嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2064865285082067221",
+        "created_at": "2026-06-11T11:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065031757334999138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882507274956005376",
+              "start": 0,
+              "username": "pikdOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065031757334999138",
+        "in_reply_to_user_id": "1882507274956005376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064897786618040719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pikdOvO 被人举报了…申诉成功了嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882507274956005376",
+        "conversation_id": "2064865285082067221",
+        "created_at": "2026-06-11T02:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064897786618040719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064897786618040719",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064865285082067221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 怎么账号受限了😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 329,
+          "like_count": 1261,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 429
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T19:14:54.000Z",
+        "description": "大龄社畜，职业是白天当jk晚上当魔法少女。\n東方project/vocaloid/sega。\ncoser/kiger（头壳角色事結月ゆかり雫)\n欢迎DM找我互动🥺也可以找我咨询魔法少女招聘入职的问题（",
+        "id": "1882507274956005376",
+        "location": "魔法少女指挥部",
+        "name": "PikdOvO",
+        "pinned_tweet_id": "2059617770321686750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927928215252914177/M6Qu01-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 805,
+          "like_count": 12629,
+          "listed_count": 6,
+          "media_count": 33,
+          "tweet_count": 875
+        },
+        "username": "pikdOvO",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2071204210277007787",
+    "created_at": "2026-06-28T14:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071237637206413546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1088476968494936064",
+          "start": 0,
+          "username": "Ember20002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071237637206413546",
+    "in_reply_to_user_id": "1088476968494936064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071219340343722088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ember20002 最好是木的（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2071204210277007787",
+        "created_at": "2026-06-28T14:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071237637206413546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1088476968494936064",
+              "start": 0,
+              "username": "Ember20002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071237637206413546",
+        "in_reply_to_user_id": "1088476968494936064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071219340343722088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ember20002 最好是木的（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1088476968494936064",
+        "conversation_id": "2071204210277007787",
+        "created_at": "2026-06-28T13:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071219340343722088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071219340343722088",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071204210277007787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 要电的还是木的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 424,
+          "like_count": 1912,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 898
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-24T16:41:47.000Z",
+        "description": "20↑/ztmy/ヨルシカ/明日方舟终末地/日语学习中/欢迎聊天",
+        "id": "1088476968494936064",
+        "name": "莫所离Mossori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004021053723734016/SWunsdwu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 172,
+          "like_count": 2774,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "Ember20002",
+        "verified": false
+      }
+    ]
+  }
+}

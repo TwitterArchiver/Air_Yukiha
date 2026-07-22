@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2063256239392666085",
+    "created_at": "2026-06-06T13:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063257160616964101"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063257160616964101",
+    "in_reply_to_user_id": "1988187586339467264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063256239392666085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个大大的vip标好丑啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 135,
+        "media_key": "3_2063256233134723072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIonMibEAAoKFD.jpg",
+        "width": 135
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2063256239392666085",
+        "created_at": "2026-06-06T13:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063257160616964101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063257160616964101",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063256239392666085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个大大的vip标好丑啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063256233134723072"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2063256239392666085",
+        "created_at": "2026-06-06T13:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063256239392666085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《sign 0》，由 Chouchou 演唱，收录于《NARCOLEPSY》专辑中，《sign 0》下载，《sign 0》在线试听，更多sign 0相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/8wdTzEg",
+              "end": 77,
+              "expanded_url": "https://163cn.tv/8wdTzEg",
+              "images": [
+                {
+                  "height": 1400,
+                  "url": "https://pbs.twimg.com/news_img/2063256291888467968/Q8O9bLCY?format=jpg&name=orig",
+                  "width": 1400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063256291888467968/Q8O9bLCY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "sign 0 - Chouchou - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=&fx-wordtest=t4&id=26383055&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=4027002461&playerUIModeId=76002&app_version=9.5.20&dlt=0846",
+              "url": "https://t.co/gM2PlkjPOo"
+            },
+            {
+              "display_url": "pic.x.com/koKJ6Hximv",
+              "end": 101,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2063256239392666085/photo/1",
+              "media_key": "3_2063256233134723072",
+              "start": 78,
+              "url": "https://t.co/koKJ6Hximv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063256239392666085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前看过一个cult片（不知道算不算）自杀房间   这首歌是我最喜欢片段的插曲🥹水下相拥的时候真的好美好美 https://t.co/gM2PlkjPOo https://t.co/koKJ6Hximv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 168,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 253
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

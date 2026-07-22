@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062198194872975717",
+    "created_at": "2026-06-04T08:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062450530732195953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990333315187167232",
+          "start": 0,
+          "username": "hKwP3r1jnW84883"
+        },
+        {
+          "end": 27,
+          "id": "1523311078641639424",
+          "start": 17,
+          "username": "_____fwry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062450530732195953",
+    "in_reply_to_user_id": "1990333315187167232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062368382637469731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hKwP3r1jnW84883 @_____fwry 看到很心疼你😢我不想劝你活下去这种冠冕堂皇的理由、自杀并没有什么舒服的死法，人类都会因为非自然死亡而痛苦，或许试着多去做一些自己喜欢的事情吧，不要为了别人或者社会上的人而影响自己，你才是你的唯一，也许等到很老了在未来的某一天闭上眼睛死去才比较幸福吧幸福☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062198194872975717",
+        "created_at": "2026-06-04T08:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062450530732195953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990333315187167232",
+              "start": 0,
+              "username": "hKwP3r1jnW84883"
+            },
+            {
+              "end": 27,
+              "id": "1523311078641639424",
+              "start": 17,
+              "username": "_____fwry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062450530732195953",
+        "in_reply_to_user_id": "1990333315187167232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062368382637469731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hKwP3r1jnW84883 @_____fwry 看到很心疼你😢我不想劝你活下去这种冠冕堂皇的理由、自杀并没有什么舒服的死法，人类都会因为非自然死亡而痛苦，或许试着多去做一些自己喜欢的事情吧，不要为了别人或者社会上的人而影响自己，你才是你的唯一，也许等到很老了在未来的某一天闭上眼睛死去才比较幸福吧幸福☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990333315187167232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2062198194872975717",
+        "created_at": "2026-06-04T02:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062368382637469731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1523311078641639424",
+              "start": 0,
+              "username": "_____fwry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062368382637469731",
+        "in_reply_to_user_id": "1523311078641639424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 587,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062198194872975717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_____fwry 俺は死ぬ計画を立てている。常に死ぬにはどうすればいいかを考えている。そこで浮かんだのは、ゆっくり死ぬ方法だ。餓死を選択すればいい。人は燃料を必要するのだから栄養不足を狙えばいい。水なしでは三日あるいは一週間も保たない。偏った食事であれば脆い。自分で自分を殺すのにナイフは必要ない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 60,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 103
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T08:17:12.000Z",
+        "description": "思想家",
+        "id": "1990333315187167232",
+        "name": "Pizz🍕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990333633920647169/09pyspLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 4,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 257
+        },
+        "username": "hKwP3r1jnW84883",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T14:37:49.000Z",
+        "description": "ラブレターの下書き",
+        "id": "1523311078641639424",
+        "name": "dot",
+        "pinned_tweet_id": "1904928072690000263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001968361010610176/X5el7Qcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 159,
+          "like_count": 7929,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1766
+        },
+        "username": "_____fwry",
+        "verified": false
+      }
+    ]
+  }
+}

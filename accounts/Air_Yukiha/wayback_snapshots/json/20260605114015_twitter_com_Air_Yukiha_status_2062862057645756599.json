@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062747568665477138",
+    "created_at": "2026-06-05T11:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062862057645756599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1632196810369531904",
+          "start": 0,
+          "username": "XiaoXin8989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062862057645756599",
+    "in_reply_to_user_id": "1632196810369531904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062747568665477138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoXin8989 抱抱www如果没有很强的自杀倾向应该不会强制住院的 好运呀宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2062747505532821504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBZ7WibYAAPWFw.jpg",
+        "width": 1825
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2062747505536950272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBZ7WjaYAAxTKB.jpg",
+        "width": 1825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062747568665477138",
+        "created_at": "2026-06-05T11:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062862057645756599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1632196810369531904",
+              "start": 0,
+              "username": "XiaoXin8989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062862057645756599",
+        "in_reply_to_user_id": "1632196810369531904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062747568665477138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoXin8989 抱抱www如果没有很强的自杀倾向应该不会强制住院的 好运呀宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062747505532821504",
+            "3_2062747505536950272"
+          ]
+        },
+        "author_id": "1632196810369531904",
+        "conversation_id": "2062747568665477138",
+        "created_at": "2026-06-05T04:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062747568665477138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fc46QZWxRF",
+              "end": 38,
+              "expanded_url": "https://x.com/XiaoXin8989/status/2062747568665477138/photo/1",
+              "media_key": "3_2062747505532821504",
+              "start": 15,
+              "url": "https://t.co/fc46QZWxRF"
+            },
+            {
+              "display_url": "pic.x.com/fc46QZWxRF",
+              "end": 38,
+              "expanded_url": "https://x.com/XiaoXin8989/status/2062747568665477138/photo/1",
+              "media_key": "3_2062747505536950272",
+              "start": 15,
+              "url": "https://t.co/fc46QZWxRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062747568665477138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们说我6/7会被强制住院嘛 https://t.co/fc46QZWxRF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 116,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 179
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T01:50:27.000Z",
+        "description": "无需补充，立即开方！\nHRT 13 Mar. 2026    无证含糖\n炸柜断糖 21 Apr. 2026 哭哭QwQ\n同类互fo哟～\n生产日期24 Oct. 2010",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/stars8989",
+                "end": 23,
+                "expanded_url": "https://ngl.link/stars8989",
+                "start": 0,
+                "url": "https://t.co/WtAsDNIHyU"
+              }
+            ]
+          }
+        },
+        "id": "1632196810369531904",
+        "location": "冥王星",
+        "name": "Stars8989🏳️‍⚧️",
+        "pinned_tweet_id": "2043975881820184694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054104229141524480/EnERw14K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 148,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/WtAsDNIHyU",
+        "username": "XiaoXin8989",
+        "verified": false
+      }
+    ]
+  }
+}

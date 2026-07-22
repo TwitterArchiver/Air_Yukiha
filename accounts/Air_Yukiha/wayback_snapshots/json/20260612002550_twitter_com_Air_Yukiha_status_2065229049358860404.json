@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065079949195898918",
+    "created_at": "2026-06-12T00:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T01:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065229049358860404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766377133558169600",
+          "start": 0,
+          "username": "oxygen_alive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065229049358860404",
+    "in_reply_to_user_id": "1766377133558169600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065152323689848872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxygen_alive 嘿嘿没事啦我超喜欢看！我自己对这个超级感兴趣！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065079949195898918",
+        "created_at": "2026-06-12T00:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065229049358860404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766377133558169600",
+              "start": 0,
+              "username": "oxygen_alive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065229049358860404",
+        "in_reply_to_user_id": "1766377133558169600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065152323689848872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxygen_alive 嘿嘿没事啦我超喜欢看！我自己对这个超级感兴趣！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766377133558169600",
+        "conversation_id": "2065079949195898918",
+        "created_at": "2026-06-11T19:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065152323689848872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065152323689848872",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065107285651939795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 字有一點多！如果不想看的話也沒事的 只是很喜歡回答相關問題 我自己看著也有點亂ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 341,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 492
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T08:15:16.000Z",
+        "description": "謹慎關注 三次二次都有｜发的都是很负面碎碎念｜我很溫良的｜私信只對互關開放 可以找我聊天的！｜不喜歡和別人爭吵 ｜社恐焦慮抑鬱｜English 普通話 粵語｜泛性戀｜喜愛幻覺 | 精神狀態很差 #shwtw ｜🇯🇵🇺🇸🇭🇰🇹🇼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 97,
+                "tag": "shwtw"
+              }
+            ]
+          }
+        },
+        "id": "1766377133558169600",
+        "location": "New York, USA",
+        "name": "🦋夜尸Oxygen",
+        "pinned_tweet_id": "2032122336430952528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982837060957343744/EO8vzeLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 923,
+          "like_count": 20870,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 424
+        },
+        "username": "oxygen_alive",
+        "verified": false
+      }
+    ]
+  }
+}

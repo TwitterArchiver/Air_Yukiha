@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062425420910514620",
+    "created_at": "2026-06-04T23:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T00:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062683494296465647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426207565575192577",
+          "start": 0,
+          "username": "Lainyer051230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062683494296465647",
+    "in_reply_to_user_id": "1426207565575192577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062425420910514620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lainyer051230 好可爱…感觉宝宝你很适合出cos 脸型好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11772,
+        "height": 1440,
+        "media_key": "7_2062425382125727744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062425382125727744/pu/img/vfLrUWRXbwZhCbcZ.jpg",
+        "public_metrics": {
+          "view_count": 76
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062425382125727744/pu/pl/5c8NrUt5D0BGU-wp.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062425382125727744/pu/vid/avc1/320x426/U44FHabI52imJPrA.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062425382125727744/pu/vid/avc1/1080x1440/PkXZ5MZyG8sCZFFK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062425382125727744/pu/vid/avc1/720x960/MfWs_KaEZymYYcdj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062425382125727744/pu/vid/avc1/480x640/_b7TMRyshDIXDPxm.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062425420910514620",
+        "created_at": "2026-06-04T23:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062683494296465647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426207565575192577",
+              "start": 0,
+              "username": "Lainyer051230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062683494296465647",
+        "in_reply_to_user_id": "1426207565575192577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062425420910514620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lainyer051230 好可爱…感觉宝宝你很适合出cos 脸型好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062425382125727744"
+          ]
+        },
+        "author_id": "1426207565575192577",
+        "conversation_id": "2062425420910514620",
+        "created_at": "2026-06-04T06:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062425420910514620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IBXXiKjGUr",
+              "end": 57,
+              "expanded_url": "https://x.com/Lainyer051230/status/2062425420910514620/video/1",
+              "media_key": "7_2062425382125727744",
+              "start": 34,
+              "url": "https://t.co/IBXXiKjGUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062425420910514620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痘印现在变成一点红红的，还好没在眉心上面不然真的像印度人惹……（） https://t.co/IBXXiKjGUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 97,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 153
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T15:43:03.000Z",
+        "description": "2007.5.6（年月日｜\n位于马来西亚.柔佛州｜\nMtF🏳️‍⚧️（無證含糖｜HRT🍥：2026.5.1｜\nShe/Her｜无不良嗜好｜有对象｜偶尔分享下照片还有生活之类的～｜我的吉祥物推号😋@lovhh2005 ｜可爱小唯唯： @weiweisama1220",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "lovhh2005"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "weiweisama1220"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mawuneko",
+                "end": 23,
+                "expanded_url": "http://t.me/mawuneko",
+                "start": 0,
+                "url": "https://t.co/sGyhuZah47"
+              }
+            ]
+          }
+        },
+        "id": "1426207565575192577",
+        "location": "Johor, Malaysia",
+        "name": "千缘sama🍥",
+        "pinned_tweet_id": "2052099424739099110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053778111582584832/F55FNMQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 228,
+          "like_count": 19194,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2259
+        },
+        "url": "https://t.co/sGyhuZah47",
+        "username": "Lainyer051230",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062411781289734207",
+    "created_at": "2026-06-04T14:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062540571567431732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2056325966209966080",
+          "start": 0,
+          "username": "vdhd3_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062540571567431732",
+    "in_reply_to_user_id": "2056325966209966080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062411781289734207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vdhd3_ 试着网络兼职一类的？也许不和别人见面会舒服一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062411781289734207",
+        "created_at": "2026-06-04T14:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062540571567431732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2056325966209966080",
+              "start": 0,
+              "username": "vdhd3_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062540571567431732",
+        "in_reply_to_user_id": "2056325966209966080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062411781289734207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vdhd3_ 试着网络兼职一类的？也许不和别人见面会舒服一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056325966209966080",
+        "conversation_id": "2062411781289734207",
+        "created_at": "2026-06-04T05:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062411781289734207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062411781289734207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12610,
+          "like_count": 167,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "うつ病の人でも働き続けれる仕事ってあるのかな、毎日毎日働かないとって思いながら過ごすの辛い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 83,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 140
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T10:48:47.000Z",
+        "description": "病み垢┊︎依存┊︎独占┊︎嫉妬┊︎💍@uigk6s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "uigk6s"
+              }
+            ]
+          }
+        },
+        "id": "2056325966209966080",
+        "name": "おゆ",
+        "pinned_tweet_id": "2057666625281925241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056326213581598720/pag3rx5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 79,
+          "like_count": 557,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 178
+        },
+        "username": "vdhd3_",
+        "verified": false
+      }
+    ]
+  }
+}

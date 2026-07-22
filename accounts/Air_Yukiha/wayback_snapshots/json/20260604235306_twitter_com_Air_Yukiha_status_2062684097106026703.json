@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062549835686035905",
+    "created_at": "2026-06-04T23:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T00:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062684097106026703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062684097106026703",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062549835686035905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 为什么这么可爱的视频突然开始扣鼻子啊😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13893,
+        "height": 1280,
+        "media_key": "7_2062549780698664961",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062549780698664961/pu/img/o9rblm2jWyWdW1v-.jpg",
+        "public_metrics": {
+          "view_count": 362
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062549780698664961/pu/vid/avc1/320x568/KDUhkE61ll2YXMzA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062549780698664961/pu/vid/avc1/480x852/8Jb6nYzh-ZyEM-iM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062549780698664961/pu/vid/avc1/720x1280/aLgLjtdjpbzt_j_5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062549780698664961/pu/pl/bwNp6ynsJZ8r95te.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062549835686035905",
+        "created_at": "2026-06-04T23:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062684097106026703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062684097106026703",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062549835686035905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 为什么这么可爱的视频突然开始扣鼻子啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062549780698664961"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2062549835686035905",
+        "created_at": "2026-06-04T14:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062549835686035905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DtaP9ddD1E",
+              "end": 29,
+              "expanded_url": "https://x.com/ashasw114514/status/2062549835686035905/video/1",
+              "media_key": "7_2062549780698664961",
+              "start": 6,
+              "url": "https://t.co/DtaP9ddD1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062549835686035905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1317,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点像直男 https://t.co/DtaP9ddD1E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 97,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 155
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n\n🫛：@rn1021929822675\n🐴：@maopao_hfqy\n⭕️：@LINKINGMadoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "rn1021929822675"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "maopao_hfqy"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "LINKINGMadoka"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮娘🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3542,
+          "following_count": 3116,
+          "like_count": 6978,
+          "listed_count": 10,
+          "media_count": 568,
+          "tweet_count": 4690
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

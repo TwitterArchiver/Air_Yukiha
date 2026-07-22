@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062134979749097696",
+    "created_at": "2026-06-04T00:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062330729451892913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1531226869823307777",
+          "start": 0,
+          "username": "lto_na"
+        },
+        {
+          "end": 21,
+          "id": "133739766",
+          "start": 8,
+          "username": "rinrinhakase"
+        },
+        {
+          "end": 35,
+          "id": "1841371343008468992",
+          "start": 22,
+          "username": "studio_Ajito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062330729451892913",
+    "in_reply_to_user_id": "1531226869823307777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062134979749097696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lto_na @rinrinhakase @studio_Ajito 好美…见到神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_2062133230820851712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4rP26bAAAAjwS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062134979749097696",
+        "created_at": "2026-06-04T00:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062330729451892913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1531226869823307777",
+              "start": 0,
+              "username": "lto_na"
+            },
+            {
+              "end": 21,
+              "id": "133739766",
+              "start": 8,
+              "username": "rinrinhakase"
+            },
+            {
+              "end": 35,
+              "id": "1841371343008468992",
+              "start": 22,
+              "username": "studio_Ajito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062330729451892913",
+        "in_reply_to_user_id": "1531226869823307777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062134979749097696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lto_na @rinrinhakase @studio_Ajito 好美…见到神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062133230820851712"
+          ]
+        },
+        "author_id": "1531226869823307777",
+        "conversation_id": "2062134979749097696",
+        "created_at": "2026-06-03T11:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062134979749097696"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 32,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 63,
+              "start": 53,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkRBIJNbWD",
+              "end": 87,
+              "expanded_url": "https://x.com/lto_na/status/2062134979749097696/photo/1",
+              "media_key": "3_2062133230820851712",
+              "start": 64,
+              "url": "https://t.co/tkRBIJNbWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062134979749097696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4174,
+          "like_count": 323,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "もうじきおかしくなっちゃう\n向こう側から戻ってこれないかもね\n\n#NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/tkRBIJNbWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 57,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 91
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T10:51:57.000Z",
+        "description": "コスプレしたり踊ったり ￤ ヒーローや強い女に心酔🪽戦うメイドは癖🗡️ ￤ Next ▷ 🎭5/24 a!, 💃5/16 NOLJAM ￤ * No unauthorized use of my photos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/lto_na",
+                "end": 23,
+                "expanded_url": "https://lit.link/lto_na",
+                "start": 0,
+                "url": "https://t.co/Mclzxc2Jpu"
+              }
+            ]
+          }
+        },
+        "id": "1531226869823307777",
+        "location": "Tokyo",
+        "name": "夏🪞",
+        "pinned_tweet_id": "2060587172143813060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012179891744382976/dlC8WTII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 522,
+          "like_count": 12546,
+          "listed_count": 17,
+          "media_count": 394,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/Mclzxc2Jpu",
+        "username": "lto_na",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-16T14:15:25.000Z",
+        "description": "カメラ使うオタク💪作風仕上げ気軽に相談ください。雑食。洋酒好き。今は仕事優先してますが、気分だけで真髄目指して撮影と製作。今のスタンス、コンセプトは、日々遊んでくださる方々にこれまでの感謝を。キャラ、ストーリー世界観共に楽しみたいです、プレゼン求む 🤨",
+        "id": "133739766",
+        "location": "壮大な旅雌伏",
+        "name": "rinrin博士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917909997675327488/Fc0U2mXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3076,
+          "following_count": 1596,
+          "like_count": 73921,
+          "listed_count": 52,
+          "media_count": 1527,
+          "tweet_count": 63060
+        },
+        "username": "rinrinhakase",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T06:57:22.000Z",
+        "description": "埼玉県熊谷市にある新生大型商用MV·コスプレ撮影スタジオ🧃🪭／総面積300㎡以上／冷房暖房完備／男性·女性更衣室完備／ゲームセンター、廃墟、グラフィティ×ネオン、サイバーパンク、中華、ゴシック、教会など個性的なブース多数／カメラマンサービスも実施中🧚‍♀️ぜひご利用ください！ #studioAjito",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 151,
+                "start": 139,
+                "tag": "studioAjito"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "studio-ajito.jimdofree.com",
+                "end": 23,
+                "expanded_url": "https://studio-ajito.jimdofree.com/",
+                "start": 0,
+                "url": "https://t.co/l5YJ8MciMX"
+              }
+            ]
+          }
+        },
+        "id": "1841371343008468992",
+        "location": "商用MV、コスプレ、撮影会その他にどうぞ！",
+        "name": "studio Ajito",
+        "pinned_tweet_id": "2062121303168229508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866120833904877568/kUrTEYu3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 3,
+          "like_count": 2172,
+          "listed_count": 355,
+          "media_count": 164,
+          "tweet_count": 2523
+        },
+        "url": "https://t.co/l5YJ8MciMX",
+        "username": "studio_Ajito",
+        "verified": false
+      }
+    ]
+  }
+}

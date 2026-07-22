@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065079949195898918",
+    "created_at": "2026-06-11T14:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065084258369359984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1694062974284242944",
+          "start": 0,
+          "username": "minver84043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065084258369359984",
+    "in_reply_to_user_id": "1694062974284242944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065083641416618393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minver84043 好奇你的恋爱观和对柏拉图的看法吧嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065079949195898918",
+        "created_at": "2026-06-11T14:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065084258369359984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1694062974284242944",
+              "start": 0,
+              "username": "minver84043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065084258369359984",
+        "in_reply_to_user_id": "1694062974284242944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065083641416618393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minver84043 好奇你的恋爱观和对柏拉图的看法吧嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694062974284242944",
+        "conversation_id": "2065079949195898918",
+        "created_at": "2026-06-11T14:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065083641416618393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065083641416618393",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065079949195898918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 330,
+          "like_count": 1272,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 441
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T19:04:43.000Z",
+        "description": "",
+        "id": "1694062974284242944",
+        "name": "minver loney",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694063065686491137/dGLuvzCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 618,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 535
+        },
+        "username": "minver84043",
+        "verified": false
+      }
+    ]
+  }
+}

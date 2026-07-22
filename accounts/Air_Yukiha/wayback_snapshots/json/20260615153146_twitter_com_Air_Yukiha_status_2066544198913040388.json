@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2066505252925575304",
+    "created_at": "2026-06-15T15:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066544198913040388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2056613041077448704",
+          "start": 0,
+          "username": "Liaoyingyiju7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066544198913040388",
+    "in_reply_to_user_id": "2056613041077448704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066523683125108828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liaoyingyiju7 是吧是吧！我出门前刚刚拉过嘿嘿😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2066505252925575304",
+        "created_at": "2026-06-15T15:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066544198913040388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2056613041077448704",
+              "start": 0,
+              "username": "Liaoyingyiju7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066544198913040388",
+        "in_reply_to_user_id": "2056613041077448704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066523683125108828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liaoyingyiju7 是吧是吧！我出门前刚刚拉过嘿嘿😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056613041077448704",
+        "conversation_id": "2066505252925575304",
+        "created_at": "2026-06-15T14:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066523683125108828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066523683125108828",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066505252925575304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 好美呀！！完美刘海"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 382,
+          "like_count": 1619,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 695
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T05:49:11.000Z",
+        "description": "Sympathise withmysadness",
+        "id": "2056613041077448704",
+        "location": "한국",
+        "name": "소묵",
+        "pinned_tweet_id": "2065849422282699104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064658225476378624/CUDZDZaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 17,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 21
+        },
+        "username": "Liaoyingyiju7",
+        "verified": false
+      }
+    ]
+  }
+}

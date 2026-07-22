@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062217397566898671",
+    "created_at": "2026-06-04T08:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062456693603365179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647929992637190144",
+          "start": 0,
+          "username": "fuhiri_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062456693603365179",
+    "in_reply_to_user_id": "1647929992637190144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062217397566898671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuhiri_sama 宝宝很乖哦🥹😖当想自残的时候试着对其他事情或者人发泄出来吧  只要自己幸福就好啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062217392923758592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ53yvLaUAA1Vn3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062217397566898671",
+        "created_at": "2026-06-04T08:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062456693603365179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647929992637190144",
+              "start": 0,
+              "username": "fuhiri_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062456693603365179",
+        "in_reply_to_user_id": "1647929992637190144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062217397566898671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuhiri_sama 宝宝很乖哦🥹😖当想自残的时候试着对其他事情或者人发泄出来吧  只要自己幸福就好啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062217392923758592"
+          ]
+        },
+        "author_id": "1647929992637190144",
+        "conversation_id": "2062217397566898671",
+        "created_at": "2026-06-03T16:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062217397566898671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ltI2P2wEn",
+              "end": 54,
+              "expanded_url": "https://x.com/fuhiri_sama/status/2062217397566898671/photo/1",
+              "media_key": "3_2062217392923758592",
+              "start": 31,
+              "url": "https://t.co/5ltI2P2wEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062217397566898671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 12585,
+          "like_count": 1023,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "我無數次想自殘，無數次把刀架在手上， 但我都沒動手，我很乖吧 https://t.co/5ltI2P2wEn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 64,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 112
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T11:48:54.000Z",
+        "description": "🇭🇰07 前世是魔法少女✝️廢文多，我很有禮貌不會隨便罵人所以快點來關注我吧🥺",
+        "id": "1647929992637190144",
+        "location": "Hong Kong",
+        "name": "比率分",
+        "pinned_tweet_id": "1811354832730833064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811145562252783616/zpwXbHN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 186,
+          "like_count": 7787,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 778
+        },
+        "username": "fuhiri_sama",
+        "verified": false
+      }
+    ]
+  }
+}

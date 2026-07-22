@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062711302464962925",
+    "created_at": "2026-06-05T08:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062813099258966149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689095384956633088",
+          "start": 0,
+          "username": "KfirC10SRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062813099258966149",
+    "in_reply_to_user_id": "1689095384956633088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062711302464962925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KfirC10SRC 好可爱…有衣服店铺嘛这也太萌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062711302464962925",
+        "created_at": "2026-06-05T08:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062813099258966149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689095384956633088",
+              "start": 0,
+              "username": "KfirC10SRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062813099258966149",
+        "in_reply_to_user_id": "1689095384956633088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062711302464962925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KfirC10SRC 好可爱…有衣服店铺嘛这也太萌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689095384956633088",
+        "conversation_id": "2062711302464962925",
+        "created_at": "2026-06-05T01:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062711302464962925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiadiexiadie52…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xiadiexiadie520/status/2062553628318298319",
+              "start": 5,
+              "url": "https://t.co/XQj9yMreyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062711302464962925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 781,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062553628318298319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "流量呢？ https://t.co/XQj9yMreyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 110,
+          "like_count": 821,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 173
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "2010年的小南梁，双相/ADHD，  战雷空战大手子   🍥时间：2026.3.15  对象：@keplerD080311 备用号：@kfirc10block60",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "keplerD080311"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "kfirc10block60"
+              }
+            ]
+          }
+        },
+        "id": "1689095384956633088",
+        "location": "Hong Kong",
+        "name": "KfirC10🚀",
+        "pinned_tweet_id": "2054139256382394384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055336215151587328/NakmBMx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 274,
+          "like_count": 454,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 605
+        },
+        "username": "KfirC10SRC",
+        "verified": false
+      }
+    ]
+  }
+}

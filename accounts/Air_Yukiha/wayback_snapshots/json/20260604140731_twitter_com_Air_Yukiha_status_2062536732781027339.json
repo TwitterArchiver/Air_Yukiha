@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062514128665924022",
+    "created_at": "2026-06-04T14:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062536732781027339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "yv_amerain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062536732781027339",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062534165745279367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yv_amerain 小雨没有什么错误的呀🥺虽然我才认识你没多久 但是很明显可以看出来 你是一个超级超级好的人   人在身处负面情绪的时候只能看到自己坏的地方   从前的你自己也已经努力了😖并没有错误这么一说  从前的你努力活下来了 这就是正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062514128665924022",
+        "created_at": "2026-06-04T14:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062536732781027339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062536732781027339",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062534165745279367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 小雨没有什么错误的呀🥺虽然我才认识你没多久 但是很明显可以看出来 你是一个超级超级好的人   人在身处负面情绪的时候只能看到自己坏的地方   从前的你自己也已经努力了😖并没有错误这么一说  从前的你努力活下来了 这就是正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2062514128665924022",
+        "created_at": "2026-06-04T13:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062534165745279367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062534165745279367",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062533372057161785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 没人在意我，而且我这半年内也做了很不好的事，说了很不好的话，我好怀念从前，我为什么会这半年变成这样，完全是因为那些比较抽象魔怔的人，那种正常健全逼pua我，后来我也变成那样了，我真的好错误"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 78,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 131
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4818,
+          "following_count": 481,
+          "like_count": 9208,
+          "listed_count": 8,
+          "media_count": 355,
+          "tweet_count": 4198
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

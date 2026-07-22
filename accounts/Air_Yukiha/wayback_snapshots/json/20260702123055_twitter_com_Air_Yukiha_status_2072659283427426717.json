@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2072611770234204342",
+    "created_at": "2026-07-02T12:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072659283427426717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1766669368396574720",
+          "start": 0,
+          "username": "kanono167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072659283427426717",
+    "in_reply_to_user_id": "1766669368396574720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072611770234204342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanono167 好厉害…这是怎么逃出来的😱😭心疼你qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2072611770234204342",
+        "created_at": "2026-07-02T12:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072659283427426717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1766669368396574720",
+              "start": 0,
+              "username": "kanono167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072659283427426717",
+        "in_reply_to_user_id": "1766669368396574720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072611770234204342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanono167 好厉害…这是怎么逃出来的😱😭心疼你qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766669368396574720",
+        "conversation_id": "2072611770234204342",
+        "created_at": "2026-07-02T09:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072611770234204342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072611770234204342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我从戒网瘾学校逃出来的3周年纪念日\n好快啊都三年了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 431,
+          "like_count": 1968,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 959
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T03:36:31.000Z",
+        "description": "絶対一生推し@JURI_MAGMAZ/前世@KISSnoyume",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "JURI_MAGMAZ"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "KISSnoyume"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kano620",
+                "end": 23,
+                "expanded_url": "https://lit.link/kano620",
+                "start": 0,
+                "url": "https://t.co/fX756BuBuB"
+              }
+            ]
+          }
+        },
+        "id": "1766669368396574720",
+        "location": "外星🛜",
+        "name": "可丽饼",
+        "pinned_tweet_id": "2011668924811678206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064091713782849536/5MPSeq0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 522,
+          "like_count": 4200,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/fX756BuBuB",
+        "username": "kanono167",
+        "verified": false
+      }
+    ]
+  }
+}

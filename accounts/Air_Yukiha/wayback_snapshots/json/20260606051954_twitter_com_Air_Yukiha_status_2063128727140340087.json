@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062322200221450737",
+    "created_at": "2026-06-06T05:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T06:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063128727140340087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518283543645880320",
+          "start": 0,
+          "username": "YuBai28010668"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063128727140340087",
+    "in_reply_to_user_id": "1518283543645880320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063119191641846140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuBai28010668 耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062322200221450737",
+        "created_at": "2026-06-06T05:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063128727140340087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518283543645880320",
+              "start": 0,
+              "username": "YuBai28010668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063128727140340087",
+        "in_reply_to_user_id": "1518283543645880320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063119191641846140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuBai28010668 耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518283543645880320",
+        "conversation_id": "2062322200221450737",
+        "created_at": "2026-06-06T04:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063119191641846140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063119191641846140",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062322200221450737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 来来来 我也喜欢糖糖～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 153,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 228
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T17:41:12.000Z",
+        "description": "你们可爱的苞米大人 🌽 esfp 伪娘 switch\n营业见置顶 祝大家幸福快乐❤️\nQ：3376987359 🚪10r（防骚扰）",
+        "id": "1518283543645880320",
+        "name": "你好苞米",
+        "pinned_tweet_id": "2058569377197531136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052507213412102144/c2aA-CHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 147,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 202
+        },
+        "username": "YuBai28010668",
+        "verified": true
+      }
+    ]
+  }
+}

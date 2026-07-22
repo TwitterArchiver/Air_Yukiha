@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2077016722385842429",
+    "created_at": "2026-07-14T17:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077081056013058538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643637070760407040",
+          "start": 0,
+          "username": "qw730914po"
+        },
+        {
+          "end": 19,
+          "id": "2073709799854997504",
+          "start": 12,
+          "username": "sthtie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077081056013058538",
+    "in_reply_to_user_id": "1643637070760407040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077080795957907730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qw730914po @sthtie 嘿嘿好！我是睡醒了一下🥺那我继续睡觉啦晚安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2077016722385842429",
+        "created_at": "2026-07-14T17:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077081056013058538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643637070760407040",
+              "start": 0,
+              "username": "qw730914po"
+            },
+            {
+              "end": 19,
+              "id": "2073709799854997504",
+              "start": 12,
+              "username": "sthtie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077081056013058538",
+        "in_reply_to_user_id": "1643637070760407040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077080795957907730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qw730914po @sthtie 嘿嘿好！我是睡醒了一下🥺那我继续睡觉啦晚安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643637070760407040",
+        "conversation_id": "2077016722385842429",
+        "created_at": "2026-07-14T17:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077080795957907730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            },
+            {
+              "end": 19,
+              "id": "2073709799854997504",
+              "start": 12,
+              "username": "sthtie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077080795957907730",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077079781397639374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha @sthtie 还不睡觉小心明天考不好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠妹妹@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 471,
+          "like_count": 2147,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1065
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T15:29:58.000Z",
+        "description": "",
+        "id": "1643637070760407040",
+        "name": "三角洲经济学教父",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965448098924343296/YE9EKkk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 132,
+          "like_count": 3345,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1318
+        },
+        "url": "",
+        "username": "qw730914po",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T10:05:58.000Z",
+        "description": "平安喜乐～",
+        "id": "2073709799854997504",
+        "name": "sth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074349319239630848/cG5gyi0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 52,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "sthtie",
+        "verified": false
+      }
+    ]
+  }
+}

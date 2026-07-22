@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2061836944271610179",
+    "created_at": "2026-06-02T23:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T00:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061953580048011756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2782885459",
+          "start": 0,
+          "username": "carlosgalindov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061953580048011756",
+    "in_reply_to_user_id": "2782885459",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061836944271610179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carlosgalindov 节哀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2061836944271610179",
+        "created_at": "2026-06-02T23:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061953580048011756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2782885459",
+              "start": 0,
+              "username": "carlosgalindov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061953580048011756",
+        "in_reply_to_user_id": "2782885459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061836944271610179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carlosgalindov 节哀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2782885459",
+        "conversation_id": "2061836944271610179",
+        "created_at": "2026-06-02T15:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061836944271610179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061836944271610179",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 22971,
+          "like_count": 1441,
+          "quote_count": 2,
+          "reply_count": 126,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "Esta mañana perdí a mi padre. Un gran hombre. Les pido oración por su eterno descanso."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 39,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 50
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-31T20:08:01.000Z",
+        "description": "No importa como acabe, ni cuánto dura. La vida es una travesía y lo que importa, es como la vives.",
+        "id": "2782885459",
+        "location": "Soy PUMA de corazón,Colima.",
+        "name": "Carlos Galindo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/522873711347920896/HavtGRy6_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8388,
+          "following_count": 7706,
+          "like_count": 28418,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 13155
+        },
+        "username": "carlosgalindov",
+        "verified": false
+      }
+    ]
+  }
+}

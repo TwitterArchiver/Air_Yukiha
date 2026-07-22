@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065725247643689020",
+    "created_at": "2026-06-13T13:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065782009428054526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878582034588962816",
+          "start": 0,
+          "username": "sese_x1anyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065782009428054526",
+    "in_reply_to_user_id": "1878582034588962816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065769605482545560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sese_x1anyu 好耶！抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065725247643689020",
+        "created_at": "2026-06-13T13:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065782009428054526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878582034588962816",
+              "start": 0,
+              "username": "sese_x1anyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065782009428054526",
+        "in_reply_to_user_id": "1878582034588962816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065769605482545560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sese_x1anyu 好耶！抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878582034588962816",
+        "conversation_id": "2065725247643689020",
+        "created_at": "2026-06-13T12:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065769605482545560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065769605482545560",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065725247643689020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 抱抱泥！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 366,
+          "like_count": 1474,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 583
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T23:17:27.000Z",
+        "description": "MtF. 现已炸柜. 多伦多_加拿大. 一只喵树上的咸鱼鱼. 尽人事 听天命. 不善言辞但想要朋友. 欢迎互fo呐.",
+        "id": "1878582034588962816",
+        "location": "咸鱼窝",
+        "name": "緲漁_M1aoYu🍥",
+        "pinned_tweet_id": "2051613752282304672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047834674920128514/gfavpvko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1480,
+          "like_count": 6247,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 417
+        },
+        "username": "sese_x1anyu",
+        "verified": false
+      }
+    ]
+  }
+}

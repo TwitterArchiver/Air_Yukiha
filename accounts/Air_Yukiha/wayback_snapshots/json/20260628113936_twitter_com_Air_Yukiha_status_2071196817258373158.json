@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071196806718136320"
+      ]
+    },
+    "author_id": "1988187586339467264",
+    "conversation_id": "2071196817258373158",
+    "created_at": "2026-06-28T11:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071196817258373158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wCRwNWRaJj",
+          "end": 66,
+          "expanded_url": "https://x.com/Air_Yukiha/status/2071196817258373158/photo/1",
+          "media_key": "3_2071196806718136320",
+          "start": 43,
+          "url": "https://t.co/wCRwNWRaJj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071196817258373158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那个不会在意我古怪性格的女孩\nos：衣服到了忍不住试一下 外景等天气凉快一点再去拍😋 https://t.co/wCRwNWRaJj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2071196806718136320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5ehaRboAAMKF7.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071196806718136320"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2071196817258373158",
+        "created_at": "2026-06-28T11:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071196817258373158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wCRwNWRaJj",
+              "end": 66,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2071196817258373158/photo/1",
+              "media_key": "3_2071196806718136320",
+              "start": 43,
+              "url": "https://t.co/wCRwNWRaJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071196817258373158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个不会在意我古怪性格的女孩\nos：衣服到了忍不住试一下 外景等天气凉快一点再去拍😋 https://t.co/wCRwNWRaJj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 424,
+          "like_count": 1903,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 894
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

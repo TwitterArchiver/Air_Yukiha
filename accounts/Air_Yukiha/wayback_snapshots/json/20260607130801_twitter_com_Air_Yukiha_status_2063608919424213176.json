@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2063598317632922070",
+    "created_at": "2026-06-07T13:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063608919424213176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046523339368476672",
+          "start": 0,
+          "username": "aika_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063608919424213176",
+    "in_reply_to_user_id": "2046523339368476672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063598317632922070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aika_overdose あいかちゃんのことが好きです！！！🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2063598317632922070",
+        "created_at": "2026-06-07T13:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063608919424213176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046523339368476672",
+              "start": 0,
+              "username": "aika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063608919424213176",
+        "in_reply_to_user_id": "2046523339368476672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063598317632922070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aika_overdose あいかちゃんのことが好きです！！！🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046523339368476672",
+        "conversation_id": "2063598317632922070",
+        "created_at": "2026-06-07T12:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063598317632922070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063598317632922070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大嫌い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 185,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 278
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T09:36:31.000Z",
+        "description": "あなただけの堕落天使、あいかちゃんだよ！\n躁鬱だけどまかせとけ 🖤🪽 †堕天†",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kre.pe/AR86",
+                "end": 23,
+                "expanded_url": "https://kre.pe/AR86",
+                "start": 0,
+                "url": "https://t.co/NOzyv9be2T"
+              }
+            ]
+          }
+        },
+        "id": "2046523339368476672",
+        "location": "キミのぱそこん",
+        "name": "🎀あいかわらず君の🎀天使ちゃん",
+        "pinned_tweet_id": "2062353624219693083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046585434747420672/vkVLVs7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 11,
+          "like_count": 459,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/NOzyv9be2T",
+        "username": "aika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065718845843923326",
+    "created_at": "2026-06-14T10:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066109751566737671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2737331036",
+          "start": 0,
+          "username": "twituserph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066109751566737671",
+    "in_reply_to_user_id": "2737331036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066108455522595219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twituserph QwQ 现在这样的人确实越来越少了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065718845843923326",
+        "created_at": "2026-06-14T10:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066109751566737671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2737331036",
+              "start": 0,
+              "username": "twituserph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066109751566737671",
+        "in_reply_to_user_id": "2737331036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066108455522595219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twituserph QwQ 现在这样的人确实越来越少了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2737331036",
+        "conversation_id": "2065718845843923326",
+        "created_at": "2026-06-14T10:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066108455522595219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066108455522595219",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065718845843923326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 问题是怎么找到一个愿意和你住出租屋，而不是要求有房有车，拎包入住的人呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 380,
+          "like_count": 1563,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 652
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-16T14:26:41.000Z",
+        "description": "多冷啊，我在东北玩泥巴。虽然东北不大，我在大连没有家。\nMy english is very poor, So if you can understand me, which means your english is also very poor.🤣\n最近、日本語を勉強しています~",
+        "id": "2737331036",
+        "name": "twituser",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060975355851341824/Abh1MT26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 51,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "twituserph",
+        "verified": false
+      }
+    ]
+  }
+}

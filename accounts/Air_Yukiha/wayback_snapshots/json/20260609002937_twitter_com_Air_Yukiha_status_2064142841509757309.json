@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2064142291007389702",
+    "created_at": "2026-06-09T00:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064142841509757309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040653294318895105",
+          "start": 0,
+          "username": "Liuzheporm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064142841509757309",
+    "in_reply_to_user_id": "2040653294318895105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064142291007389702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liuzheporm 欧米加w谢谢你呀宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064142282912415744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVOeFLbwAAFlY7.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064142282908164097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVOeFKa4AElB1i.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2064142291007389702",
+        "created_at": "2026-06-09T00:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064142841509757309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040653294318895105",
+              "start": 0,
+              "username": "Liuzheporm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064142841509757309",
+        "in_reply_to_user_id": "2040653294318895105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064142291007389702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liuzheporm 欧米加w谢谢你呀宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064142282912415744",
+            "3_2064142282908164097"
+          ]
+        },
+        "author_id": "2040653294318895105",
+        "conversation_id": "2064142291007389702",
+        "created_at": "2026-06-09T00:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064142291007389702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQuUScz5i8",
+              "end": 51,
+              "expanded_url": "https://x.com/Liuzheporm/status/2064142291007389702/photo/1",
+              "media_key": "3_2064142282912415744",
+              "start": 28,
+              "url": "https://t.co/OQuUScz5i8"
+            },
+            {
+              "display_url": "pic.x.com/OQuUScz5i8",
+              "end": 51,
+              "expanded_url": "https://x.com/Liuzheporm/status/2064142291007389702/photo/1",
+              "media_key": "3_2064142282908164097",
+              "start": 28,
+              "url": "https://t.co/OQuUScz5i8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064142291007389702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发誓，真的是天使。我哭了。骗人我这辈子发布了财！！！ https://t.co/OQuUScz5i8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2063983244681584909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 249,
+          "like_count": 1105,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 338
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T04:51:17.000Z",
+        "description": "",
+        "id": "2040653294318895105",
+        "name": "Liuzhe",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 122,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "Liuzheporm",
+        "verified": false
+      }
+    ]
+  }
+}

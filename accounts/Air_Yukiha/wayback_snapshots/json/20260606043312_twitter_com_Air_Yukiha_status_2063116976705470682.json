@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062970773212729630",
+    "created_at": "2026-06-06T04:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063116976705470682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2047368107199737856",
+          "start": 0,
+          "username": "yaoyao639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063116976705470682",
+    "in_reply_to_user_id": "2047368107199737856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062970773212729630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaoyao639 很可爱哦🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 983,
+        "media_key": "3_2062970752908115968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEk-D0bwAAyuoc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062970773212729630",
+        "created_at": "2026-06-06T04:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063116976705470682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2047368107199737856",
+              "start": 0,
+              "username": "yaoyao639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063116976705470682",
+        "in_reply_to_user_id": "2047368107199737856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062970773212729630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoyao639 很可爱哦🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062970752908115968"
+          ]
+        },
+        "author_id": "2047368107199737856",
+        "conversation_id": "2062970773212729630",
+        "created_at": "2026-06-05T18:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062970773212729630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "聽障女生"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "18y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlAXIWSjaU",
+              "end": 87,
+              "expanded_url": "https://x.com/yaoyao639/status/2062970773212729630/photo/1",
+              "media_key": "3_2062970752908115968",
+              "start": 64,
+              "url": "https://t.co/DlAXIWSjaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062970773212729630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1508,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剛滿18歲  想知道聽不見聲音不知道是好還是不好？\n總是被夸可愛 🥹\n可是每次當大家聽不見聲音就冷眼我\n#聽障女生  #18y https://t.co/DlAXIWSjaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 142,
+          "like_count": 883,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 216
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T17:33:05.000Z",
+        "description": "平常愛畫畫喜歡安靜  可是總是自己一個人\n 父母離開後 會很自閉 開始講話緩慢  靠助聽器👂聲音\n 每天除了畫畫好像沒有特別開心\n 情緒很悲觀 想被愛只能走特別的路\n@huababa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 83,
+                "username": "huababa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/daihh20",
+                "end": 23,
+                "expanded_url": "https://t.me/daihh20",
+                "start": 0,
+                "url": "https://t.co/3fW5VsTSWz"
+              }
+            ]
+          }
+        },
+        "id": "2047368107199737856",
+        "location": "高雄",
+        "name": "小羽🌧️愛畫畫",
+        "pinned_tweet_id": "2059652375917531216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049477359540346880/7x_U7XvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 1,
+          "like_count": 79,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/3fW5VsTSWz",
+        "username": "yaoyao639",
+        "verified": false
+      }
+    ]
+  }
+}

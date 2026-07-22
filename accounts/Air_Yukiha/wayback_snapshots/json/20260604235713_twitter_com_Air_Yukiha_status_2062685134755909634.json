@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062555420020138465",
+    "created_at": "2026-06-04T23:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T00:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062685134755909634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688556439865090048",
+          "start": 0,
+          "username": "ysn42231385235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062685134755909634",
+    "in_reply_to_user_id": "1688556439865090048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062555420020138465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysn42231385235 光是躺在床上发呆的此刻就很好啦🥹除了结束一切其他的休息方式也很好哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_2062555417629302784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-rOXVaIAAwiEq.jpg",
+        "width": 611
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062555420020138465",
+        "created_at": "2026-06-04T23:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062685134755909634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688556439865090048",
+              "start": 0,
+              "username": "ysn42231385235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062685134755909634",
+        "in_reply_to_user_id": "1688556439865090048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062555420020138465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysn42231385235 光是躺在床上发呆的此刻就很好啦🥹除了结束一切其他的休息方式也很好哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062555417629302784"
+          ]
+        },
+        "author_id": "1688556439865090048",
+        "conversation_id": "2062555420020138465",
+        "created_at": "2026-06-04T15:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062555420020138465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4pTR0RI3K",
+              "end": 151,
+              "expanded_url": "https://x.com/ysn42231385235/status/2062555420020138465/photo/1",
+              "media_key": "3_2062555417629302784",
+              "start": 128,
+              "url": "https://t.co/F4pTR0RI3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062555420020138465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活的好累，什么都没有动力，什么都没有心情。不想吃饭，不想睡觉，不想动，呼吸好累。只想一直感受着时间过去。人生好茫然。看不见目标，看不见未来，过去是黑暗的，未来是迷雾的，下一步也许就是悬崖边。或许我该休息了，对于我来说，呼吸抑制窝囊的死去是很幸福的死法吧。 https://t.co/F4pTR0RI3K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 99,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 158
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T14:23:45.000Z",
+        "description": "请称呼我月誓就好！                                                            \n男的，od狗音游狗光棒狗。我没有啥道德感只想操逼，上网只是性压抑和想冲浪还有发泄情绪。本质上是一个开心的傻子，可爱小妹妹可以私信我 (*^▽^*)",
+        "id": "1688556439865090048",
+        "location": "想认识更多朋友 互fo欢迎",
+        "name": "ミエナイ",
+        "pinned_tweet_id": "2026775867977007254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062582170120855552/o_wJwRLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 544,
+          "like_count": 7967,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 2467
+        },
+        "username": "ysn42231385235",
+        "verified": false
+      }
+    ]
+  }
+}

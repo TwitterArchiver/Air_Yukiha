@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2060504887759155346",
+    "created_at": "2026-05-30T12:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060704628887654536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1387779928507273226",
+          "start": 0,
+          "username": "sevdaloji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060704628887654536",
+    "in_reply_to_user_id": "1387779928507273226",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060504887759155346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevdaloji Hello！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2060504878988902402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhiRToXwAI9L7x.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2060504887759155346",
+        "created_at": "2026-05-30T12:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060704628887654536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1387779928507273226",
+              "start": 0,
+              "username": "sevdaloji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060704628887654536",
+        "in_reply_to_user_id": "1387779928507273226",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060504887759155346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevdaloji Hello！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060504878988902402"
+          ]
+        },
+        "author_id": "1387779928507273226",
+        "conversation_id": "2060504887759155346",
+        "created_at": "2026-05-29T23:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T00:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060504887759155346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/agLKAS11lI",
+              "end": 87,
+              "expanded_url": "https://x.com/sevdaloji/status/2060504887759155346/photo/1",
+              "media_key": "3_2060504878988902402",
+              "start": 64,
+              "url": "https://t.co/agLKAS11lI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060504887759155346",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 21472,
+          "like_count": 1857,
+          "quote_count": 14,
+          "reply_count": 512,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Kedim Violet'e merhaba demeyenler için HAZİRAN AYINDA KÖTÜ ŞANS https://t.co/agLKAS11lI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 22,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-29T14:45:08.000Z",
+        "description": "ücretli rt reklam ve iş birliği için DM📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sevdalojim",
+                "end": 23,
+                "expanded_url": "http://instagram.com/sevdalojim",
+                "start": 0,
+                "url": "https://t.co/PNqIQthSQ5"
+              }
+            ]
+          }
+        },
+        "id": "1387779928507273226",
+        "location": "İstanbul, Türkiye",
+        "name": "Sevda",
+        "pinned_tweet_id": "1954629293373640910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756750369332346880/TmOzTWg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170466,
+          "following_count": 65005,
+          "like_count": 716456,
+          "listed_count": 69,
+          "media_count": 553,
+          "tweet_count": 3973
+        },
+        "url": "https://t.co/PNqIQthSQ5",
+        "username": "sevdaloji",
+        "verified": true
+      }
+    ]
+  }
+}

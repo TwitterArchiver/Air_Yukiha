@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075577975605690368",
+        "3_2075577975597309952"
+      ]
+    },
+    "author_id": "1988187586339467264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fragrances",
+          "id": "856559465000091648",
+          "name": "Perfumes & fragrances"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Perfumes",
+          "id": "855110667916918784",
+          "name": "Perfumes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Perfumes",
+          "id": "855110667916918784",
+          "name": "Perfumes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fragrances",
+          "id": "856559465000091648",
+          "name": "Perfumes & fragrances"
+        }
+      }
+    ],
+    "conversation_id": "2075577993838346658",
+    "created_at": "2026-07-10T13:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075577993838346658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hxM48XIuH5",
+          "end": 122,
+          "expanded_url": "https://x.com/Air_Yukiha/status/2075577993838346658/photo/1",
+          "media_key": "3_2075577975605690368",
+          "start": 99,
+          "url": "https://t.co/hxM48XIuH5"
+        },
+        {
+          "display_url": "pic.x.com/hxM48XIuH5",
+          "end": 122,
+          "expanded_url": "https://x.com/Air_Yukiha/status/2075577993838346658/photo/1",
+          "media_key": "3_2075577975597309952",
+          "start": 99,
+          "url": "https://t.co/hxM48XIuH5"
+        },
+        {
+          "display_url": "x.com/air_yukiha/sta…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/air_yukiha/status/2075219177158344870",
+          "start": 123,
+          "url": "https://t.co/YZdthRcxiI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075577993838346658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075219177158344870",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢大家呀！\n五份粉福已经抽出并且打包好了！\n额外也给平时很眼熟的小宝宝也准备了OvO\n保底是玩偶拼豆饼干香水！其他的会根据情况随机送🥰\n\n没有抽到也不要难过呀呀呀我眼熟的都可以随机得到我的投喂🥺 https://t.co/hxM48XIuH5 https://t.co/YZdthRcxiI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075577975605690368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3vLAOaAAA31xY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075577975597309952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3vLAMaIAAVn2w.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075219139946491904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyo0BOaMAAOIXZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075577975605690368",
+            "3_2075577975597309952"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "2075577993838346658",
+        "created_at": "2026-07-10T13:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075577993838346658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxM48XIuH5",
+              "end": 122,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2075577993838346658/photo/1",
+              "media_key": "3_2075577975605690368",
+              "start": 99,
+              "url": "https://t.co/hxM48XIuH5"
+            },
+            {
+              "display_url": "pic.x.com/hxM48XIuH5",
+              "end": 122,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2075577993838346658/photo/1",
+              "media_key": "3_2075577975597309952",
+              "start": 99,
+              "url": "https://t.co/hxM48XIuH5"
+            },
+            {
+              "display_url": "x.com/air_yukiha/sta…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/air_yukiha/status/2075219177158344870",
+              "start": 123,
+              "url": "https://t.co/YZdthRcxiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075577993838346658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075219177158344870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢大家呀！\n五份粉福已经抽出并且打包好了！\n额外也给平时很眼熟的小宝宝也准备了OvO\n保底是玩偶拼豆饼干香水！其他的会根据情况随机送🥰\n\n没有抽到也不要难过呀呀呀我眼熟的都可以随机得到我的投喂🥺 https://t.co/hxM48XIuH5 https://t.co/YZdthRcxiI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075219139946491904"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2075219177158344870",
+        "created_at": "2026-07-09T14:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075219177158344870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nBqLTvTlwv",
+              "end": 96,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2075219177158344870/photo/1",
+              "media_key": "3_2075219139946491904",
+              "start": 73,
+              "url": "https://t.co/nBqLTvTlwv"
+            },
+            {
+              "display_url": "x.com/air_yukiha/sta…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/air_yukiha/status/2074468476509687969",
+              "start": 97,
+              "url": "https://t.co/wv0MI84i7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075219177158344870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4184,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074468476509687969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "700fo小礼物准备中…\n因为好多人蹲粉福所以最后还是准备了五份！\n小猪手打包中🥺\n图片是一点小礼物预告嘿嘿\n欢迎大家参与！明天12点开奖OvO https://t.co/nBqLTvTlwv https://t.co/wv0MI84i7u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n天使教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 462,
+          "like_count": 2076,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1025
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

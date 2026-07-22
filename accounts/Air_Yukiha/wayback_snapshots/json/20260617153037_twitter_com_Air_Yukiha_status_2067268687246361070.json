@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2067266542832877804",
+    "created_at": "2026-06-17T15:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067268687246361070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1497948979270619136",
+          "start": 0,
+          "username": "AKASaltedfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067268687246361070",
+    "in_reply_to_user_id": "1497948979270619136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067267020367032481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKASaltedfish 😋😋😋天机不可泄露"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2067266542832877804",
+        "created_at": "2026-06-17T15:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067268687246361070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1497948979270619136",
+              "start": 0,
+              "username": "AKASaltedfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067268687246361070",
+        "in_reply_to_user_id": "1497948979270619136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067267020367032481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKASaltedfish 😋😋😋天机不可泄露"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497948979270619136",
+        "conversation_id": "2067266542832877804",
+        "created_at": "2026-06-17T15:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067267020367032481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067267020367032481",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067266542832877804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 正好上推发现是1分钟前"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 399,
+          "like_count": 1725,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 752
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T14:57:51.000Z",
+        "description": "成分:Reverse1999/Apex/Minecraft/Vtuber",
+        "id": "1497948979270619136",
+        "location": "Broken Heart",
+        "name": "Shiosa",
+        "pinned_tweet_id": "1978990074281730211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814616990411337729/HtVT7G3d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 399,
+          "like_count": 342,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 854
+        },
+        "username": "AKASaltedfish",
+        "verified": false
+      }
+    ]
+  }
+}

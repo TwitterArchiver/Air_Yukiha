@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2074879446637850785",
+    "created_at": "2026-07-08T16:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074898001915760727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1660575218069573633",
+          "start": 0,
+          "username": "biantaizukohg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074898001915760727",
+    "in_reply_to_user_id": "1660575218069573633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074882982100566257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biantaizukohg 嘿嘿谢谢！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2074879446637850785",
+        "created_at": "2026-07-08T16:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074898001915760727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1660575218069573633",
+              "start": 0,
+              "username": "biantaizukohg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074898001915760727",
+        "in_reply_to_user_id": "1660575218069573633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074882982100566257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biantaizukohg 嘿嘿谢谢！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660575218069573633",
+        "conversation_id": "2074879446637850785",
+        "created_at": "2026-07-08T15:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074882982100566257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074882982100566257",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074879446637850785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 很厉害嘛小翼宝宝 自己弹吉他自己唱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n天使教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 447,
+          "like_count": 2053,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1015
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T09:16:10.000Z",
+        "description": "想尝试足交榨精 鞋控 足控 袜控 恋物癖一枚（小癖好分享天地）求各种女博主合作！（接原味评测、寄射、线下恋足视频图片拍摄、tk等）原创不易，未在X上发布的均为盗图！（盗图、骗子4全家；盗图替我挡灾）蓝字@的都是亲测博主，喜欢可以放心问（部分博主受封号原因变为黑体）最爱最爱的公主殿下@popoerwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "popoerwi"
+              }
+            ]
+          }
+        },
+        "id": "1660575218069573633",
+        "location": "浙江省",
+        "name": "足老师（恋足版）",
+        "pinned_tweet_id": "1848940852166725713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824083610154221568/UZELKaO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23068,
+          "following_count": 3542,
+          "like_count": 7960,
+          "listed_count": 64,
+          "media_count": 304,
+          "tweet_count": 931
+        },
+        "url": "",
+        "username": "biantaizukohg",
+        "verified": false
+      }
+    ]
+  }
+}

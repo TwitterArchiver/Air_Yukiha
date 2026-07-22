@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2063983244681584909",
+    "created_at": "2026-06-09T00:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064136181626056870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2017919663137869824",
+          "start": 0,
+          "username": "N3A6pb47OW66594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064136181626056870",
+    "in_reply_to_user_id": "2017919663137869824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064103177428021284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3A6pb47OW66594 開心🥰谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2063983244681584909",
+        "created_at": "2026-06-09T00:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064136181626056870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2017919663137869824",
+              "start": 0,
+              "username": "N3A6pb47OW66594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064136181626056870",
+        "in_reply_to_user_id": "2017919663137869824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064103177428021284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3A6pb47OW66594 開心🥰谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017919663137869824",
+        "conversation_id": "2063983244681584909",
+        "created_at": "2026-06-08T21:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064103177428021284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064103177428021284",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063983244681584909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 天使降临了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2063983244681584909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 233,
+          "like_count": 1084,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 316
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T11:15:28.000Z",
+        "description": ".",
+        "id": "2017919663137869824",
+        "name": "如鲠在喉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027395078315233280/fEmwAhIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "N3A6pb47OW66594",
+        "verified": false
+      }
+    ]
+  }
+}

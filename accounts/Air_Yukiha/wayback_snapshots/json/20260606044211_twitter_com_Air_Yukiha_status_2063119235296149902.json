@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062879212948881597",
+    "created_at": "2026-06-06T04:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063119235296149902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034865150499725313",
+          "start": 0,
+          "username": "Weberkaliro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063119235296149902",
+    "in_reply_to_user_id": "2034865150499725313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062879212948881597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Weberkaliro 耶！大家都辛苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2062879204761628672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDRtQZbcAAux4x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062879212948881597",
+        "created_at": "2026-06-06T04:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063119235296149902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034865150499725313",
+              "start": 0,
+              "username": "Weberkaliro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063119235296149902",
+        "in_reply_to_user_id": "2034865150499725313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062879212948881597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Weberkaliro 耶！大家都辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062879204761628672"
+          ]
+        },
+        "author_id": "2034865150499725313",
+        "conversation_id": "2062879212948881597",
+        "created_at": "2026-06-05T12:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062879212948881597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zt4TVE1Ws",
+              "end": 37,
+              "expanded_url": "https://x.com/Weberkaliro/status/2062879212948881597/photo/1",
+              "media_key": "3_2062879204761628672",
+              "start": 14,
+              "url": "https://t.co/4zt4TVE1Ws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062879212948881597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一周又过去了 各位辛苦了~ https://t.co/4zt4TVE1Ws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 146,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 220
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T05:30:58.000Z",
+        "description": "MTF|ZH/ENG/DE/LAT|Medicine or O-Chemistry|Medicine Student in CN|Love: @emm101215| 重度焦虑 重度抑郁 双相 精分 社交障碍 躁郁qwq|家暴-天残-无证含糖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "emm101215"
+              }
+            ]
+          }
+        },
+        "id": "2034865150499725313",
+        "name": "科利尔🏳️‍⚧️Kaliro🍥（学医期末复习限定）",
+        "pinned_tweet_id": "2034961012794024311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865262240178178/A0F7SCg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1213,
+          "like_count": 3498,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 508
+        },
+        "username": "Weberkaliro",
+        "verified": false
+      }
+    ]
+  }
+}

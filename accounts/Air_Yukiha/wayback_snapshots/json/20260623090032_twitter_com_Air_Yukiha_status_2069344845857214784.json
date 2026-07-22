@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2069219281456533649",
+    "created_at": "2026-06-23T09:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069344845857214784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1375473375838044161",
+          "start": 0,
+          "username": "AriasX16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069344845857214784",
+    "in_reply_to_user_id": "1375473375838044161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069230859623034892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AriasX16 收到喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2069219281456533649",
+        "created_at": "2026-06-23T09:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069344845857214784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1375473375838044161",
+              "start": 0,
+              "username": "AriasX16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069344845857214784",
+        "in_reply_to_user_id": "1375473375838044161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069230859623034892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AriasX16 收到喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375473375838044161",
+        "conversation_id": "2069219281456533649",
+        "created_at": "2026-06-23T01:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069230859623034892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069230859623034892",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069219281456533649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 加油喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 408,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 830
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-26T15:43:31.000Z",
+        "description": "这是一条免费的简介.jpg",
+        "id": "1375473375838044161",
+        "name": "AriasX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271971600465921/s15rkbDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 27,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "AriasX16",
+        "verified": false
+      }
+    ]
+  }
+}

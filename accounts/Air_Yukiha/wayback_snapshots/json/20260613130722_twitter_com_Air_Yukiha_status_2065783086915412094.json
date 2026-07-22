@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065725247643689020",
+    "created_at": "2026-06-13T13:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065783086915412094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1642132634150084608",
+          "start": 0,
+          "username": "kirito550171548"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065783086915412094",
+    "in_reply_to_user_id": "1642132634150084608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065746315246809507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirito550171548 抱抱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065725247643689020",
+        "created_at": "2026-06-13T13:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065783086915412094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1642132634150084608",
+              "start": 0,
+              "username": "kirito550171548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065783086915412094",
+        "in_reply_to_user_id": "1642132634150084608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065746315246809507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirito550171548 抱抱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642132634150084608",
+        "conversation_id": "2065725247643689020",
+        "created_at": "2026-06-13T10:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065746315246809507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065746315246809507",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065725247643689020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 366,
+          "like_count": 1493,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 604
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T11:51:58.000Z",
+        "description": "私斋 特别社恐 喜欢看动漫玩galgame",
+        "id": "1642132634150084608",
+        "name": "天才美少女bocchi⭐death",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779592042823487488/-Egygsbd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 113,
+          "like_count": 5497,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 213
+        },
+        "username": "kirito550171548",
+        "verified": false
+      }
+    ]
+  }
+}

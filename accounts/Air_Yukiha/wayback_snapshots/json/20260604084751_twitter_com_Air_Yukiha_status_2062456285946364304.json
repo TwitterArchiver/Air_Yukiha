@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062415141883515205",
+    "created_at": "2026-06-04T08:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062456285946364304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "P_chan_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062456285946364304",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062415141883515205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P_chan_neko 并不是要周围围满朋友才是最幸福的生活呀🥹😖不登校是为了保护你自己而已 不要总因为这种原因自责什么的  自己舒服就好了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062415141883515205",
+        "created_at": "2026-06-04T08:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062456285946364304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "P_chan_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062456285946364304",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062415141883515205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P_chan_neko 并不是要周围围满朋友才是最幸福的生活呀🥹😖不登校是为了保护你自己而已 不要总因为这种原因自责什么的  自己舒服就好了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2062415141883515205",
+        "created_at": "2026-06-04T06:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062415141883515205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062415141883515205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 986,
+          "like_count": 31,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自从我不登校之后彻底切断了和同龄人的联系，我现实中一个朋友没有，网络上也只有几个朋友，人怎么能活成我这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 63,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 111
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "我是你最喜欢的「people」兼「producer」阿P！人称P酱！你的赛博饮食起居由我来负责！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "守护最可爱的小天使",
+        "name": "阿P",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168823256768512/2LSiZGje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 176,
+          "like_count": 1899,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "P_chan_neko",
+        "verified": true
+      }
+    ]
+  }
+}

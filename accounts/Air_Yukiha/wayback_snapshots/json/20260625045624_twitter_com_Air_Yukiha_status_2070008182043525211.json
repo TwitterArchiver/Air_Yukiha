@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069798741628915712"
+      ],
+      "media_source_tweet_id": [
+        "2069798757873676536"
+      ]
+    },
+    "author_id": "1988187586339467264",
+    "conversation_id": "2070008182043525211",
+    "created_at": "2026-06-25T04:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070008182043525211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069790112725229568",
+          "start": 3,
+          "username": "Xiaomaozto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tKnBIhTKlA",
+          "end": 75,
+          "expanded_url": "https://x.com/Xiaomaozto/status/2069798757873676536/photo/1",
+          "media_key": "3_2069798741628915712",
+          "start": 52,
+          "url": "https://t.co/tKnBIhTKlA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070008182043525211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069798757873676536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaomaozto: 封7天谁能帮我转转…………求你们惹。。。前世会谈，找我吧。7天后才复活 https://t.co/tKnBIhTKlA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069798741628915712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlm_T9XkAAiVp1.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069798741628915712"
+          ],
+          "media_source_tweet_id": [
+            "2069798757873676536"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2070008182043525211",
+        "created_at": "2026-06-25T04:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070008182043525211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069790112725229568",
+              "start": 3,
+              "username": "Xiaomaozto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKnBIhTKlA",
+              "end": 75,
+              "expanded_url": "https://x.com/Xiaomaozto/status/2069798757873676536/photo/1",
+              "media_key": "3_2069798741628915712",
+              "start": 52,
+              "url": "https://t.co/tKnBIhTKlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070008182043525211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069798757873676536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaomaozto: 封7天谁能帮我转转…………求你们惹。。。前世会谈，找我吧。7天后才复活 https://t.co/tKnBIhTKlA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069798741628915712"
+          ]
+        },
+        "author_id": "2069790112725229568",
+        "conversation_id": "2069798757873676536",
+        "created_at": "2026-06-24T15:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069798757873676536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKnBIhTKlA",
+              "end": 59,
+              "expanded_url": "https://x.com/Xiaomaozto/status/2069798757873676536/photo/1",
+              "media_key": "3_2069798741628915712",
+              "start": 36,
+              "url": "https://t.co/tKnBIhTKlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069798757873676536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6150,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "封7天谁能帮我转转…………求你们惹。。。前世会谈，找我吧。7天后才复活 https://t.co/tKnBIhTKlA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 412,
+          "like_count": 1850,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 860
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-24T14:30:47.000Z",
+        "description": "@nigich436594大号封7天捏……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "nigich436594"
+              }
+            ]
+          }
+        },
+        "id": "2069790112725229568",
+        "name": "茶茶",
+        "pinned_tweet_id": "2069798757873676536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069791599069200384/xfkGeajF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 52,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "Xiaomaozto",
+        "verified": false
+      }
+    ]
+  }
+}

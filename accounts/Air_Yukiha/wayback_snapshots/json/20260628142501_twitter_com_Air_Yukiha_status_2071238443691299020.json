@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2071204210277007787",
+    "created_at": "2026-06-28T14:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071238443691299020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1404449980841005065",
+          "start": 0,
+          "username": "a1547025987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071238443691299020",
+    "in_reply_to_user_id": "1404449980841005065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071227137361928243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1547025987 好唉！好多人推荐这个我去研究一下😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2071204210277007787",
+        "created_at": "2026-06-28T14:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071238443691299020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1404449980841005065",
+              "start": 0,
+              "username": "a1547025987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071238443691299020",
+        "in_reply_to_user_id": "1404449980841005065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071227137361928243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1547025987 好唉！好多人推荐这个我去研究一下😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404449980841005065",
+        "conversation_id": "2071204210277007787",
+        "created_at": "2026-06-28T13:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071227137361928243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071227137361928243",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071204210277007787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha grx40❤️‍🔥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 424,
+          "like_count": 1915,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 902
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-14T14:45:55.000Z",
+        "description": "即使这是施加给我的诅咒，我也会将它当成祝福一样热爱！                            我的宝宝：@Ananan9113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "Ananan9113"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Mutsumi_never…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Mutsumi_never_cries",
+                "start": 0,
+                "url": "https://t.co/e6Z8zLqL78"
+              }
+            ]
+          }
+        },
+        "id": "1404449980841005065",
+        "location": "佛罗里达州",
+        "name": "机巧睦头不会受伤",
+        "pinned_tweet_id": "2070897702855176460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048337386590113793/PEyizSud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 779,
+          "like_count": 1892,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/e6Z8zLqL78",
+        "username": "a1547025987",
+        "verified": false
+      }
+    ]
+  }
+}

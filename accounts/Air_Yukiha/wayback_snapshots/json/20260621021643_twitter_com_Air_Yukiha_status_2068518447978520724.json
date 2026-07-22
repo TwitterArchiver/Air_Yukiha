@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2068324230350213583",
+    "created_at": "2026-06-21T02:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068518447978520724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1893354824307220485",
+          "start": 0,
+          "username": "1yxnn_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068518447978520724",
+    "in_reply_to_user_id": "1893354824307220485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068324230350213583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1yxnn_ 寶寶🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2068324230350213583",
+        "created_at": "2026-06-21T02:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068518447978520724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1893354824307220485",
+              "start": 0,
+              "username": "1yxnn_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068518447978520724",
+        "in_reply_to_user_id": "1893354824307220485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068324230350213583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1yxnn_ 寶寶🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893354824307220485",
+        "conversation_id": "2068324230350213583",
+        "created_at": "2026-06-20T13:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068324230350213583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068324230350213583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 956,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想跟地雷系/血圖之類的互fo &gt;&lt;⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 402,
+          "like_count": 1751,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 773
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T17:39:17.000Z",
+        "description": "碎碎念 不用理我。我是神經病\n想當地雷系卻變地雷女的我是否搞錯了什麼\n不約 想聊黃的可以滾了 我有對象",
+        "id": "1893354824307220485",
+        "name": "小優",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013189054423052288/Y5Pf3t0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 25,
+          "like_count": 1803,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 993
+        },
+        "url": "",
+        "username": "1yxnn_",
+        "verified": false
+      }
+    ]
+  }
+}

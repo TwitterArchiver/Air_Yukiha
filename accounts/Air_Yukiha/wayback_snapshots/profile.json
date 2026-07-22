@@ -1,0 +1,25 @@
+{
+  "name": "翼",
+  "username": "@Air_Yukiha",
+  "bio": "全く可愛くない！ 一個普普通通的溫良小女孩=lvl= 教主@Numiouoo 小惠妹妹@huihui_mikumi",
+  "location": "Japan",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 38,
+        "start": 29,
+        "username": "Numiouoo"
+      },
+      {
+        "end": 57,
+        "start": 43,
+        "username": "huihui_mikumi"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg"
+}

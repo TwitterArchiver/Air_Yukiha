@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063149751894495232"
+      ]
+    },
+    "author_id": "1988187586339467264",
+    "conversation_id": "2063149760278933936",
+    "created_at": "2026-06-06T06:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063149760278933936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/slJZOhzjGt",
+          "end": 23,
+          "expanded_url": "https://x.com/Air_Yukiha/status/2063149760278933936/photo/1",
+          "media_key": "3_2063149751894495232",
+          "start": 0,
+          "url": "https://t.co/slJZOhzjGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063149760278933936",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/slJZOhzjGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_2063149751894495232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHHxLAbUAAeKHm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063149751894495232"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2063149760278933936",
+        "created_at": "2026-06-06T06:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063149760278933936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/slJZOhzjGt",
+              "end": 23,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2063149760278933936/photo/1",
+              "media_key": "3_2063149751894495232",
+              "start": 0,
+              "url": "https://t.co/slJZOhzjGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063149760278933936",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/slJZOhzjGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 156,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 230
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

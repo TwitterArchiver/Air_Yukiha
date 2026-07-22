@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2062268811215347715",
+    "created_at": "2026-06-04T13:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062531968487841927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022181719835914242",
+          "start": 0,
+          "username": "QY404XYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062531968487841927",
+    "in_reply_to_user_id": "2022181719835914242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062268811215347715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QY404XYN 才不是 你只是一个努力的小女孩而已呀🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2062268811215347715",
+        "created_at": "2026-06-04T13:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062531968487841927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "QY404XYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062531968487841927",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062268811215347715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QY404XYN 才不是 你只是一个努力的小女孩而已呀🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022181719835914242",
+        "conversation_id": "2062268811215347715",
+        "created_at": "2026-06-03T20:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062268811215347715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062268811215347715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是神人吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！",
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 78,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 129
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜对象 @mchchc5216 ｜od｜自残｜有事直接用推私聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "mchchc5216"
+              }
+            ]
+          }
+        },
+        "id": "2022181719835914242",
+        "name": "千夜404🍥",
+        "pinned_tweet_id": "2060753705738416473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062281232155910144/dH_yT6SE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268,
+          "following_count": 235,
+          "like_count": 253,
+          "listed_count": 7,
+          "media_count": 95,
+          "tweet_count": 502
+        },
+        "username": "QY404XYN",
+        "verified": false
+      }
+    ]
+  }
+}

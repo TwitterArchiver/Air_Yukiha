@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2065083384356077847",
+    "created_at": "2026-06-12T12:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065418757678534815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037090530467995648",
+          "start": 0,
+          "username": "A920520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065418757678534815",
+    "in_reply_to_user_id": "2037090530467995648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065363018104426793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A920520 我喜欢你的碎碎念呀呀呀果断回fo😋话说真的有人会认真喜欢病娇女的性格吗啊啊啊  还有孩子你是要开普瑞巴林吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2065083384356077847",
+        "created_at": "2026-06-12T12:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065418757678534815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037090530467995648",
+              "start": 0,
+              "username": "A920520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065418757678534815",
+        "in_reply_to_user_id": "2037090530467995648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065363018104426793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A920520 我喜欢你的碎碎念呀呀呀果断回fo😋话说真的有人会认真喜欢病娇女的性格吗啊啊啊  还有孩子你是要开普瑞巴林吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037090530467995648",
+        "conversation_id": "2065083384356077847",
+        "created_at": "2026-06-12T09:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065363018104426793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065363018104426793",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065083384356077847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 345,
+          "like_count": 1378,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 519
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T08:53:36.000Z",
+        "description": "身高188.体重135，土象处女座，妹控，infj绿老头，有点爱喝酒，开心的时候不怎么喝，喜欢冒险，刺激，有激情，有挑战的事，属性s，会点绳缚，另外接私人定制小狗小猫项圈，脾气很好，性格很好，想认识好多新朋友",
+        "id": "2037090530467995648",
+        "name": "林飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037090657848942592/kDT51ZvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 148,
+          "like_count": 2173,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 544
+        },
+        "username": "A920520",
+        "verified": false
+      }
+    ]
+  }
+}
