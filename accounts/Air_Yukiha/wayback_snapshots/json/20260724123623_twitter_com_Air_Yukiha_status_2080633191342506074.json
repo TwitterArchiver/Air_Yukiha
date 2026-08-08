@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2080517223303790875",
+    "created_at": "2026-07-24T12:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080633191342506074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1660575218069573633",
+          "start": 0,
+          "username": "biantaizukohg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080633191342506074",
+    "in_reply_to_user_id": "1660575218069573633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080522819222569231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biantaizukohg 当时确实出门都会被夸很可爱嘿嘿 应该是6岁左右的时候了🥺😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2080517223303790875",
+        "created_at": "2026-07-24T12:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080633191342506074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1660575218069573633",
+              "start": 0,
+              "username": "biantaizukohg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080633191342506074",
+        "in_reply_to_user_id": "1660575218069573633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080522819222569231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biantaizukohg 当时确实出门都会被夸很可爱嘿嘿 应该是6岁左右的时候了🥺😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660575218069573633",
+        "conversation_id": "2080517223303790875",
+        "created_at": "2026-07-24T05:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080522819222569231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080522819222569231",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080517223303790875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 那个时候和现在唯一相同就是都叫小翼宝宝（小翼小时候就可爱气质爆棚了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠妹妹@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078433031837409592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 494,
+          "like_count": 2249,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1135
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T09:16:10.000Z",
+        "description": "想尝试足交榨精 鞋控 足控 袜控 恋物癖一枚（小癖好分享天地）求各种女博主合作！（接原味评测、寄射、线下恋足视频图片拍摄、tk等）原创不易，未在X上发布的均为盗图！（盗图、骗子4全家；盗图替我挡灾）蓝字@的都是亲测博主，喜欢可以放心问（部分博主受封号原因变为黑体）最爱最爱的公主殿下@popoerwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "popoerwi"
+              }
+            ]
+          }
+        },
+        "id": "1660575218069573633",
+        "location": "浙江省",
+        "name": "足老师（恋足版）",
+        "pinned_tweet_id": "1848940852166725713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824083610154221568/UZELKaO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23289,
+          "following_count": 3588,
+          "like_count": 8133,
+          "listed_count": 61,
+          "media_count": 171,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "biantaizukohg",
+        "verified": false
+      }
+    ]
+  }
+}

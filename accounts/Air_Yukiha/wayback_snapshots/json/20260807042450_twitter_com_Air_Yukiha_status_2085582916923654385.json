@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2085438101602841087",
+    "created_at": "2026-08-07T04:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085582916923654385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1977331200709595136",
+          "start": 0,
+          "username": "PhylissWei13477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085582916923654385",
+    "in_reply_to_user_id": "1977331200709595136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085559367869583691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhylissWei13477 其实越看越像。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2085438101602841087",
+        "created_at": "2026-08-07T04:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085582916923654385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977331200709595136",
+              "start": 0,
+              "username": "PhylissWei13477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085582916923654385",
+        "in_reply_to_user_id": "1977331200709595136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085559367869583691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhylissWei13477 其实越看越像。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977331200709595136",
+        "conversation_id": "2085438101602841087",
+        "created_at": "2026-08-07T02:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085559367869583691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085559367869583691",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085438101602841087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 我不行了阴飞了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠老婆@huihui_mikumi\n小宝宝@PhylissWei13477",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "PhylissWei13477"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078433031837409592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 565,
+          "like_count": 2482,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1284
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T11:11:11.000Z",
+        "description": "INFP/死人微活的高中生ʕ⁠´⁠•⁠ ⁠ᴥ⁠•̥⁠`⁠ʔ/对一切常规地球人类表示友好/全世界最好最萌最可爱的天使宝宝@Air_Yukiha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "Air_Yukiha"
+              }
+            ]
+          }
+        },
+        "id": "1977331200709595136",
+        "location": "未知",
+        "name": "Asdtruna.",
+        "pinned_tweet_id": "2006055508105650576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993011337593757697/QKux05BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 206,
+          "like_count": 1334,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 903
+        },
+        "url": "",
+        "username": "PhylissWei13477",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2085271980341887005",
+    "created_at": "2026-08-06T07:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085272645029998873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2083759498066534400",
+          "start": 0,
+          "username": "Ririnkachan0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085272645029998873",
+    "in_reply_to_user_id": "2083759498066534400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085271980341887005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririnkachan0808 不是人机（人机问的都是日语"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2085271970401361920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBfzw_aIAASByW.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2085271980341887005",
+        "created_at": "2026-08-06T07:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085272645029998873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2083759498066534400",
+              "start": 0,
+              "username": "Ririnkachan0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085272645029998873",
+        "in_reply_to_user_id": "2083759498066534400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085271980341887005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririnkachan0808 不是人机（人机问的都是日语"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085271970401361920"
+          ]
+        },
+        "author_id": "2083759498066534400",
+        "conversation_id": "2085271980341887005",
+        "created_at": "2026-08-06T07:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085271980341887005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U668NypsRu",
+              "end": 37,
+              "expanded_url": "https://x.com/Ririnkachan0808/status/2085271980341887005/photo/1",
+              "media_key": "3_2085271970401361920",
+              "start": 14,
+              "url": "https://t.co/U668NypsRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085271980341887005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是人机问的还是？\n好诡异 https://t.co/U668NypsRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠老婆@huihui_mikumi\n小宝宝@PhylissWei13477",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "PhylissWei13477"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078140522162803164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 546,
+          "like_count": 2434,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1264
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-02T04:07:21.000Z",
+        "description": "🎶🩶🤍\n家有幼女鬼一只",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aidn.jp/mikutap",
+                "end": 23,
+                "expanded_url": "http://aidn.jp/mikutap",
+                "start": 0,
+                "url": "https://t.co/azPKL5L89G"
+              }
+            ]
+          }
+        },
+        "id": "2083759498066534400",
+        "location": "某个醉鬼的酒壶",
+        "name": "Ririnkachanwww",
+        "pinned_tweet_id": "2084635428104335412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083895695275409408/Ds3LksM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 182,
+          "like_count": 257,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/azPKL5L89G",
+        "username": "Ririnkachan0808",
+        "verified": false
+      }
+    ]
+  }
+}

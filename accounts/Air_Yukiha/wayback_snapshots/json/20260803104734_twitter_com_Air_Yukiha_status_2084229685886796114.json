@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084229677594578944"
+      ]
+    },
+    "author_id": "1988187586339467264",
+    "conversation_id": "2084229685886796114",
+    "created_at": "2026-08-03T10:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084229685886796114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YqJmpfX8y1",
+          "end": 47,
+          "expanded_url": "https://x.com/Air_Yukiha/status/2084229685886796114/photo/1",
+          "media_key": "3_2084229677594578944",
+          "start": 24,
+          "url": "https://t.co/YqJmpfX8y1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084229685886796114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "洗完头拍的 唉…&gt;_&lt;…适可萌止吧 https://t.co/YqJmpfX8y1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2084229677594578944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyr2VtaEAAfiy1.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084229677594578944"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2084229685886796114",
+        "created_at": "2026-08-03T10:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084229685886796114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqJmpfX8y1",
+              "end": 47,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2084229685886796114/photo/1",
+              "media_key": "3_2084229677594578944",
+              "start": 24,
+              "url": "https://t.co/YqJmpfX8y1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084229685886796114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗完头拍的 唉…&gt;_&lt;…适可萌止吧 https://t.co/YqJmpfX8y1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠老婆@huihui_mikumi\n小宝宝@PhylissWei13477",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "PhylissWei13477"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078140522162803164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 524,
+          "like_count": 2379,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1227
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

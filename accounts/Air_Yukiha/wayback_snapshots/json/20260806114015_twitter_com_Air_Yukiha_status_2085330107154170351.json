@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2085048024263516254",
+    "created_at": "2026-08-06T11:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085330107154170351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013553953041235968",
+          "start": 0,
+          "username": "lxgy1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085330107154170351",
+    "in_reply_to_user_id": "2013553953041235968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085048024263516254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxgy1024 宝宝舍曲林o多了会得血清素综合症肾衰竭的！不要一次服用4t以上舍曲林呀😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2085048024263516254",
+        "created_at": "2026-08-06T11:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085330107154170351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013553953041235968",
+              "start": 0,
+              "username": "lxgy1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085330107154170351",
+        "in_reply_to_user_id": "2013553953041235968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085048024263516254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxgy1024 宝宝舍曲林o多了会得血清素综合症肾衰竭的！不要一次服用4t以上舍曲林呀😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013553953041235968",
+        "conversation_id": "2085048024263516254",
+        "created_at": "2026-08-05T16:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085048024263516254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085048024263516254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7992,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告:  因极度崩溃和长期抑郁，原号主赶月喵 o 了 15t 舍曲林和 8t 奎硫平 在家中逝世\n该帐号，包括所有帖子由新号主继承\n新号主你们也认识，就是原号主本人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠老婆@huihui_mikumi\n小宝宝@PhylissWei13477",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "PhylissWei13477"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078140522162803164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 549,
+          "like_count": 2448,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1267
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T10:07:46.000Z",
+        "description": "より良い物語、私たちの最高のもの、全世界が出会うのを待っています。\n最喜欢的妹妹@sheepahead\nMTF ( maybe )，持证含糖，欢迎互fo \nOIer ( was )，坐标杭州，欢迎来面",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "sheepahead"
+              }
+            ]
+          }
+        },
+        "id": "2013553953041235968",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "赶月めいり🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077384843563012096/I_j8ylkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 231,
+          "like_count": 935,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "lxgy1024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2080301699420561607",
+    "created_at": "2026-07-23T15:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080311142732476726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1778730242343084033",
+          "start": 0,
+          "username": "M9517391052526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080311142732476726",
+    "in_reply_to_user_id": "1778730242343084033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080301699420561607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M9517391052526 好可爱好可爱的咪咪🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080301458407440384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN63J44aQAAzKtd.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2080301496756011008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN63MHvbAAAibgr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2080301699420561607",
+        "created_at": "2026-07-23T15:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080311142732476726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1778730242343084033",
+              "start": 0,
+              "username": "M9517391052526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080311142732476726",
+        "in_reply_to_user_id": "1778730242343084033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080301699420561607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M9517391052526 好可爱好可爱的咪咪🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080301458407440384",
+            "3_2080301496756011008"
+          ]
+        },
+        "author_id": "1778730242343084033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080301699420561607",
+        "created_at": "2026-07-23T14:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080301699420561607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u91RL1bNAE",
+              "end": 40,
+              "expanded_url": "https://x.com/M9517391052526/status/2080301699420561607/photo/1",
+              "media_key": "3_2080301458407440384",
+              "start": 17,
+              "url": "https://t.co/u91RL1bNAE"
+            },
+            {
+              "display_url": "pic.x.com/u91RL1bNAE",
+              "end": 40,
+              "expanded_url": "https://x.com/M9517391052526/status/2080301699420561607/photo/1",
+              "media_key": "3_2080301496756011008",
+              "start": 17,
+              "url": "https://t.co/u91RL1bNAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080301699420561607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃的冒菜😋\n这是店主家的猫😸 https://t.co/u91RL1bNAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠妹妹@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078433031837409592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 488,
+          "like_count": 2232,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1127
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T10:22:11.000Z",
+        "description": "",
+        "id": "1778730242343084033",
+        "name": "M",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 568,
+          "like_count": 2984,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "M9517391052526",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2084312290862526642",
+    "created_at": "2026-08-04T05:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084504675953594789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809183242387673088",
+          "start": 0,
+          "username": "huangbingxia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084504675953594789",
+    "in_reply_to_user_id": "1809183242387673088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084312290862526642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huangbingxia 好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7108,
+        "height": 1280,
+        "media_key": "7_2084312234298056704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2084312234298056704/pu/img/4waicOykacNXuoV6.jpg",
+        "public_metrics": {
+          "view_count": 204
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084312234298056704/pu/vid/avc1/320x568/0rlcWVNWhBrAsBpL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084312234298056704/pu/vid/avc1/480x852/kQ8lEmxv9uzU_xif.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084312234298056704/pu/vid/avc1/720x1280/bxzCM3ap0b6G0ZjE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2084312234298056704/pu/pl/NDP0aSMXBZ7arudE.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2084312290862526642",
+        "created_at": "2026-08-04T05:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084504675953594789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809183242387673088",
+              "start": 0,
+              "username": "huangbingxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084504675953594789",
+        "in_reply_to_user_id": "1809183242387673088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084312290862526642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huangbingxia 好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084312234298056704"
+          ]
+        },
+        "author_id": "1809183242387673088",
+        "conversation_id": "2084312290862526642",
+        "created_at": "2026-08-03T16:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084312290862526642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUgcygXdQ6",
+              "end": 27,
+              "expanded_url": "https://x.com/huangbingxia/status/2084312290862526642/video/1",
+              "media_key": "7_2084312234298056704",
+              "start": 4,
+              "url": "https://t.co/pUgcygXdQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084312290862526642",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1062,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 https://t.co/pUgcygXdQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠老婆@huihui_mikumi\n小宝宝@PhylissWei13477",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "PhylissWei13477"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078140522162803164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 530,
+          "like_count": 2414,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1245
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T11:11:33.000Z",
+        "description": "",
+        "id": "1809183242387673088",
+        "location": "New Jersey, USA",
+        "name": "诗歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952792004041101313/aWdDncnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 68,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "huangbingxia",
+        "verified": false
+      }
+    ]
+  }
+}
