@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2085631351642870234",
+    "created_at": "2026-08-07T10:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085669274979635327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962783721289064449",
+          "start": 0,
+          "username": "1CedZ5jEp983099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085669274979635327",
+    "in_reply_to_user_id": "1962783721289064449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085631351642870234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1CedZ5jEp983099 好帅好美！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2085631321397673984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGmovxWQAAggL2.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2085631351642870234",
+        "created_at": "2026-08-07T10:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085669274979635327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962783721289064449",
+              "start": 0,
+              "username": "1CedZ5jEp983099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085669274979635327",
+        "in_reply_to_user_id": "1962783721289064449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085631351642870234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1CedZ5jEp983099 好帅好美！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085631321397673984"
+          ]
+        },
+        "author_id": "1962783721289064449",
+        "conversation_id": "2085631351642870234",
+        "created_at": "2026-08-07T07:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085631351642870234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "le"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "les"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "wlw"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "t0m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P89sSA9zs9",
+              "end": 55,
+              "expanded_url": "https://x.com/1CedZ5jEp983099/status/2085631351642870234/photo/1",
+              "media_key": "3_2085631321397673984",
+              "start": 32,
+              "url": "https://t.co/P89sSA9zs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085631351642870234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是喜欢看海 #le #les #wlw #女同性恋 #t0m https://t.co/P89sSA9zs9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠老婆@huihui_mikumi\n小宝宝@PhylissWei13477",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "PhylissWei13477"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078433031837409592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 572,
+          "like_count": 2512,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1305
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T07:44:51.000Z",
+        "description": "t0 m 喜欢姐姐\n理想型：💰",
+        "id": "1962783721289064449",
+        "name": "萌不是我的错",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028051012779692032/00Vx3gjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 54,
+          "like_count": 138,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "1CedZ5jEp983099",
+        "verified": false
+      }
+    ]
+  }
+}

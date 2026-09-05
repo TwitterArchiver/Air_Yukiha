@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2085323273773134206",
+    "created_at": "2026-08-07T04:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085589746563297606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2068326497006530560",
+          "start": 0,
+          "username": "emilyzweix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085589746563297606",
+    "in_reply_to_user_id": "2068326497006530560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085323273773134206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emilyzweix 好可爱w像娃娃一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085323251954388993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCOcvqakAER6Uu.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2085323264201748480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCOddSacAAUtAY.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2085323273773134206",
+        "created_at": "2026-08-07T04:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085589746563297606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2068326497006530560",
+              "start": 0,
+              "username": "emilyzweix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085589746563297606",
+        "in_reply_to_user_id": "2068326497006530560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085323273773134206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emilyzweix 好可爱w像娃娃一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085323251954388993",
+            "3_2085323264201748480"
+          ]
+        },
+        "author_id": "2068326497006530560",
+        "conversation_id": "2085323273773134206",
+        "created_at": "2026-08-06T11:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085323273773134206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yNqq2Cwbre",
+              "end": 47,
+              "expanded_url": "https://x.com/emilyzweix/status/2085323273773134206/photo/1",
+              "media_key": "3_2085323251954388993",
+              "start": 24,
+              "url": "https://t.co/yNqq2Cwbre"
+            },
+            {
+              "display_url": "pic.x.com/yNqq2Cwbre",
+              "end": 47,
+              "expanded_url": "https://x.com/emilyzweix/status/2085323273773134206/photo/1",
+              "media_key": "3_2085323264201748480",
+              "start": 24,
+              "url": "https://t.co/yNqq2Cwbre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085323273773134206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗子生病了，呆 宠物医院两周，今天终于接回来啦 https://t.co/yNqq2Cwbre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠老婆@huihui_mikumi\n小宝宝@PhylissWei13477",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "PhylissWei13477"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078433031837409592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 566,
+          "like_count": 2490,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1291
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T13:37:08.000Z",
+        "description": "奔四大龄MTF | HRT Ing  | 欢迎同类扩列  | 程序员",
+        "id": "2068326497006530560",
+        "location": "China",
+        "name": "Emily🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083899835552559104/nZncF6I__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 242,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "emilyzweix",
+        "verified": true
+      }
+    ]
+  }
+}

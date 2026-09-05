@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2085654210956406961",
+    "created_at": "2026-08-07T09:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T10:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085667140305326135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1758032291144847360",
+          "start": 0,
+          "username": "Kotoino_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085667140305326135",
+    "in_reply_to_user_id": "1758032291144847360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085654210956406961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kotoino_ 你好漂亮🥺🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085654200504176640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPG7cfFaUAAX14W.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085654200491655168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPG7cfCbQAAtY6A.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2085654210956406961",
+        "created_at": "2026-08-07T09:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085667140305326135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758032291144847360",
+              "start": 0,
+              "username": "Kotoino_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085667140305326135",
+        "in_reply_to_user_id": "1758032291144847360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085654210956406961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kotoino_ 你好漂亮🥺🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085654200504176640",
+            "3_2085654200491655168"
+          ]
+        },
+        "author_id": "1758032291144847360",
+        "conversation_id": "2085654210956406961",
+        "created_at": "2026-08-07T09:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085654210956406961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWmmzkGX0Z",
+              "end": 23,
+              "expanded_url": "https://x.com/Kotoino_/status/2085654210956406961/photo/1",
+              "media_key": "3_2085654200504176640",
+              "start": 0,
+              "url": "https://t.co/TWmmzkGX0Z"
+            },
+            {
+              "display_url": "pic.x.com/TWmmzkGX0Z",
+              "end": 23,
+              "expanded_url": "https://x.com/Kotoino_/status/2085654210956406961/photo/1",
+              "media_key": "3_2085654200491655168",
+              "start": 0,
+              "url": "https://t.co/TWmmzkGX0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085654210956406961",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 729,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TWmmzkGX0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠老婆@huihui_mikumi\n小宝宝@PhylissWei13477",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "PhylissWei13477"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078433031837409592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 569,
+          "like_count": 2511,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1303
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T07:36:09.000Z",
+        "description": "低浮上｜Only This One X ｜IG：https://t.co/SNcWcUkwuZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/koto._.ino",
+                "end": 47,
+                "expanded_url": "https://www.instagram.com/koto._.ino",
+                "start": 24,
+                "url": "https://t.co/SNcWcUkwuZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@kotoino_",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@kotoino_",
+                "start": 0,
+                "url": "https://t.co/pkcyYtC5yj"
+              }
+            ]
+          }
+        },
+        "id": "1758032291144847360",
+        "location": "鬼隠 🚪588｜1314｜5200",
+        "name": "kotoino",
+        "pinned_tweet_id": "1826016483039924606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758032724030562304/mS-nxVyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17123,
+          "following_count": 57,
+          "like_count": 768,
+          "listed_count": 53,
+          "media_count": 100,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/pkcyYtC5yj",
+        "username": "Kotoino_",
+        "verified": false
+      }
+    ]
+  }
+}

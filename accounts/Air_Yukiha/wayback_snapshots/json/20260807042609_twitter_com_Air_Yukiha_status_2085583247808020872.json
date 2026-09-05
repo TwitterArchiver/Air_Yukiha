@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988187586339467264",
+    "conversation_id": "2085438101602841087",
+    "created_at": "2026-08-07T04:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085583247808020872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2084142351291965440",
+          "start": 0,
+          "username": "iJAYTV66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085583247808020872",
+    "in_reply_to_user_id": "2084142351291965440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085574333402054930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iJAYTV66 笑的我有点那啥了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2085438101602841087",
+        "created_at": "2026-08-07T04:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085583247808020872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2084142351291965440",
+              "start": 0,
+              "username": "iJAYTV66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085583247808020872",
+        "in_reply_to_user_id": "2084142351291965440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085574333402054930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iJAYTV66 笑的我有点那啥了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084142351291965440",
+        "conversation_id": "2085438101602841087",
+        "created_at": "2026-08-07T03:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085574333402054930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085574333402054930",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085438101602841087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠老婆@huihui_mikumi\n小宝宝@PhylissWei13477",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "PhylissWei13477"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078433031837409592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 565,
+          "like_count": 2486,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1289
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-03T05:01:19.000Z",
+        "description": "网络外星人被偷走了",
+        "id": "2084142351291965440",
+        "name": "JAY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084920768576802817/0VIKw3bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "iJAYTV66",
+        "verified": false
+      }
+    ]
+  }
+}
